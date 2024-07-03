@@ -1,0 +1,1371 @@
+question,type,topic,spam,phishing
+"What factors do you think contributed to your overall satisfaction with our service, and how could we improve to meet your expectations in the future?",open-ended,customer satisfaction,False,False
+What do you think we could do to surpass your expectations and provide an even better overall experience with our products or services?,open-ended,customer satisfaction,False,False
+"What do you think we could do to improve your overall experience with our company, and what would make you more likely to recommend us to others?",open-ended,customer satisfaction,False,False
+"What do you value most about your recent experience with our company, and how did we meet or exceed those expectations?",open-ended,customer satisfaction,False,False
+"What do you value most about your experience with our company, and how do we measure up to those expectations?",open-ended,customer satisfaction,False,False
+"What factors contributed to your overall satisfaction with our product/service, and how did we meet or exceed your expectations?",open-ended,customer satisfaction,False,False
+"What have we done well, and what can we improve on to further exceed your expectations and enhance your overall experience with our company?",open-ended,customer satisfaction,False,False
+What do you think is the most significant factor that contributes to your overall satisfaction or dissatisfaction with our product or service?,open-ended,customer satisfaction,False,False
+"What did you find most impressive about your recent interaction with our company, and how did it impact your overall satisfaction with our service?",open-ended,customer satisfaction,False,False
+"What did we do well, and what could we improve on to enhance your overall satisfaction with our product or service?",open-ended,customer satisfaction,False,False
+"What did you like most about your recent experience with our product, and how do you think we could improve it to meet your future needs?",open-ended,product feedback,False,False
+"What did you like most about our product, and how has it impacted your satisfaction with our brand?",open-ended,product feedback,False,False
+What do you think we could improve about the product to make it more enjoyable and useful for you?,open-ended,product feedback,False,False
+"What do you think are the most significant strengths and weaknesses of our new product, and how can we improve it to better meet your needs?",open-ended,product feedback,False,False
+"What do you think is the most valuable feature of our product, and how do you currently use it to achieve your goals?",open-ended,product feedback,False,False
+What do you think is the most significant improvement we could make to our product to better meet your needs and expectations?,open-ended,product feedback,False,False
+"What do you like most about our product, and how has it impacted your experience with our brand?",open-ended,product feedback,False,False
+What aspects of our product do you think could be improved to better meet your needs and expectations?,open-ended,product feedback,False,False
+"What do you like most about this product, and how has it impacted your experience with our brand?",open-ended,product feedback,False,False
+"What do you think are the most significant benefits and drawbacks of using our product, and how do you think we could improve it to better meet your needs and expectations?",open-ended,product feedback,False,False
+"What do you believe are the most important factors that contribute to your sense of fulfillment and motivation in your role, and how do you think the organization can better support these factors?",open-ended,employee engagement,False,False
+"What does being part of our company culture mean to you, and how do you feel it impacts your job satisfaction and overall well-being?",open-ended,employee engagement,False,False
+"What do you think are the most effective ways for your organization to demonstrate its commitment to your well-being and job satisfaction, and how do you currently see this commitment being demonstrated?",open-ended,employee engagement,False,False
+"What do you think are the most important factors that contribute to your sense of fulfillment and job satisfaction, and how do you currently experience these factors in your role?",open-ended,employee engagement,False,False
+"What does a highly engaged workspace look like to you, and what factors contribute to creating an environment where you feel motivated, motivated, and committed to your work?",open-ended,employee engagement,False,False
+"What do you believe are the most significant factors that contribute to your sense of purpose and motivation at work, and how do you think the organization could better support and nurture these factors?",open-ended,employee engagement,False,False
+"What do you think are the most effective ways for our organization to show appreciation and recognition to employees, and how do you believe this would impact your job satisfaction and overall engagement?",open-ended,employee engagement,False,False
+"What are the most important factors that influence your motivation and job satisfaction at work, and how do you think the organization can better support and recognize your contributions?",open-ended,employee engagement,False,False
+What do you believe is the most important factor in fostering a sense of community and connection among employees in the workplace?,open-ended,employee engagement,False,False
+What do you think is the most important thing your organization could do to increase your job satisfaction and overall engagement?,open-ended,employee engagement,False,False
+"What factors do you consider when deciding which brand to support or recommend to others, and how do you think our company could better align with your values and preferences?",open-ended,market research,False,False
+"What do you think are the most significant advantages of shopping online compared to traditional brick-and-mortar stores, and how do these advantages influence your purchasing decisions?",open-ended,market research,False,False
+"What do you think are the most significant benefits of using our brand's products or services, and how have they impacted your daily life or work?",open-ended,market research,False,False
+"What do you think are the most significant benefits of using social media platforms for marketing and advertising, and how do you currently utilize these platforms for your business or personal goals?",open-ended,market research,False,False
+"What do you think are the most significant advantages and disadvantages of using social media platforms for business marketing, and how do you think these platforms have impacted your purchasing decisions in the past year?",open-ended,market research,False,False
+"What do you think are the most significant advantages and disadvantages of using digital channels for purchasing products or services, and how do you think they compare to traditional methods?",open-ended,market research,False,False
+"What do you think are the most significant advantages and disadvantages of using social media platforms for marketing purposes, and how do you think they could be improved?",open-ended,market research,False,False
+"What do you believe are the most significant factors influencing your purchasing decisions when it comes to [specific product/service category], and how do you think these factors could be addressed by manufacturers or retailers?",open-ended,market research,False,False
+"What are the most important factors that influence your purchasing decisions when it comes to new technology products, and how do these factors compare to those that influenced your purchasing decisions in the past?",open-ended,market research,False,False
+"What do you think are the most significant advantages of our new product, and how do you believe they will impact your purchasing decisions?",open-ended,market research,False,False
+"What do you think is the most significant factor that influences your overall experience when using our product, and how do you think we could improve in this area?",open-ended,user experience,False,False
+What do you think is the most significant factor that contributes to your positive or negative experience while using our product?,open-ended,user experience,False,False
+"How do you think we could improve the overall user experience of our digital platform, and what features or changes would you like to see implemented?",open-ended,user experience,False,False
+"What did you find most surprising or delightful about your experience using our product/service, and how did it impact your overall satisfaction?",open-ended,user experience,False,False
+"Can you describe a recent instance where you felt your experience with our product/service was particularly seamless and enjoyable, and what specific features or interactions contributed to that feeling?",open-ended,user experience,False,False
+"What did you find most surprising or delightful about using our product/service, and how did it impact your overall experience?",open-ended,user experience,False,False
+"What did you find most enjoyable or impressive about your recent interaction with our product, and how did it make you feel?",open-ended,user experience,False,False
+"What do you think makes a positive and memorable experience when interacting with our website, and how can we improve upon that?",open-ended,user experience,False,False
+"What did you find most surprising or delightful about your experience with our product/service, and how did it impact your overall satisfaction?",open-ended,user experience,False,False
+"Can you describe a recent interaction with our website or app that stood out to you, and what made it a positive or negative experience?",open-ended,user experience,False,False
+"What are the key factors that influence your perception of our brand, and how do you think we could improve our brand image in the future?",open-ended,brand perception,False,False
+"What does the brand stand for and what values does it represent in your mind, and how does this impact your perception of the brand?",open-ended,brand perception,False,False
+"What are the key factors that contribute to your perception of our brand, and how do they influence your purchasing decisions?",open-ended,brand perception,False,False
+"When you think of our brand, what comes to mind and why?",open-ended,brand perception,False,False
+"What does [Brand Name] mean to you, and how does it make you feel about the brand?",open-ended,brand perception,False,False
+"What does our brand represent to you, and how does it make you feel?",open-ended,brand perception,False,False
+"What does our brand stand for in your mind, and how do we compare to our competitors in terms of values and overall identity?",open-ended,brand perception,False,False
+"What does [Brand Name] mean to you, and how does its brand identity influence your perception of the company?",open-ended,brand perception,False,False
+What do you think are the key attributes or qualities that define [Brand Name]'s brand identity and what role do these play in shaping your overall perception of the brand?,open-ended,brand perception,False,False
+"What does the [Brand Name] brand stand for in your mind, and how does it make you feel when you think about it?",open-ended,brand perception,False,False
+What makes you feel valued and satisfied when interacting with our organization's customer service team?,open-ended,service quality,False,False
+"Can you describe a recent interaction with our company where you felt exceptionally well-served, and what specific aspects of the experience stood out to you as exceptionally positive?",open-ended,service quality,False,False
+"What does excellent service mean to you, and how do you expect a company to deliver it?",open-ended,service quality,False,False
+"Can you describe a recent instance where you felt exceptionally impressed with the service you received from our company, and what specifically contributed to that positive experience?",open-ended,service quality,False,False
+"What did you experience as the most significant moment of delight or disappointment during your recent interaction with our service, and how did it impact your overall satisfaction?",open-ended,service quality,False,False
+What do you think the company could do to improve the overall quality of service you received from our team?,open-ended,service quality,False,False
+"What do you think sets apart exceptional service experiences from average ones, and how can we improve our service to exceed your expectations?",open-ended,service quality,False,False
+"What aspects of our service did you find most impressive, and how did they contribute to your overall satisfaction?",open-ended,service quality,False,False
+"What factors do you think contribute to a positive or negative experience when interacting with our customer service team, and how do you think we could improve our service to better meet your needs?",open-ended,service quality,False,False
+"What do you think are the most important factors that contribute to a positive experience when receiving a service, and how do you expect a service provider to demonstrate these factors?",open-ended,service quality,False,False
+"What are the most significant factors contributing to the current state of global economic instability, and how do you think they can be addressed?",open-ended,Global Economy,False,False
+"What do you think are the most significant factors driving the current state of globalization and its impact on the global economy, and how do you think these factors will evolve in the next decade?",open-ended,Global Economy,False,False
+"What do you think are the most significant challenges facing the global economy in the next decade, and how do you think they can be addressed?",open-ended,Global Economy,False,False
+"What do you think are the most significant global economic challenges that the world will face in the next decade, and how do you think they can be addressed?",open-ended,Global Economy,False,False
+"What do you think is the most significant challenge facing the global economy in the next decade, and how do you think it can be addressed?",open-ended,Global Economy,False,False
+"What do you believe are the most significant challenges facing the global economy in the next decade, and how do you think governments, businesses, and individuals should work together to address them?",open-ended,Global Economy,False,False
+"What do you believe are the most significant drivers of economic growth and stability in the global economy, and how can policymakers and businesses work together to foster a more sustainable and equitable economic environment?",open-ended,Global Economy,False,False
+"What steps do you think governments and international organizations should take to mitigate the negative impacts of globalization on local communities and industries, and how could this be achieved in a fair and equitable manner?",open-ended,Global Economy,False,False
+"What do you think are the most significant challenges facing the global economy in the next decade, and how do you believe they will impact individuals, businesses, and governments?",open-ended,Global Economy,False,False
+"What do you think are the most significant challenges facing the global economy in the next decade, and how do you believe they should be addressed?",open-ended,Global Economy,False,False
+"What do you think are the most significant challenges facing democratic institutions in today's society, and how would you propose addressing them?",open-ended,Politics,False,False
+"What do you believe is the most significant factor contributing to the political polarization in your country, and how do you think it can be addressed?",open-ended,Politics,False,False
+"What do you think is the most pressing issue facing our political system today, and how do you think it should be addressed?",open-ended,Politics,False,False
+What do you think is the most pressing issue facing our country's political system and how do you think it should be addressed?,open-ended,Politics,False,False
+"What do you think is the most significant challenge facing the political system in your country today, and how do you think it could be addressed?",open-ended,Politics,False,False
+"What changes, if any, would you like to see in the political system to address the growing wealth gap in your community, and what specific actions would you like to see policymakers take to achieve these changes?",open-ended,Politics,False,False
+"What do you think is the most significant factor contributing to the growing polarization in modern politics, and how do you believe it can be addressed?",open-ended,Politics,False,False
+"What do you think is the most pressing issue facing the democratic process in your country, and how do you believe it can be effectively addressed?",open-ended,Politics,False,False
+"How do you think the increasing polarization in American politics affects the ability of citizens to work together to address pressing national issues, and what, if anything, do you think can be done to mitigate this impact?",open-ended,Politics,False,False
+"What do you believe is the most pressing issue facing the political system in your country, and how do you think it should be addressed?",open-ended,Politics,False,False
+"What do you think are the most significant benefits of latest technological advancements in the field of artificial intelligence, and how do you see them transforming industry and society in the next 5 years?",open-ended,Latest Technological Advancements,False,False
+"What do you think are the most significant benefits of the latest technological advancements, and how do you see them impacting your daily life and work in the next 5 years?",open-ended,Latest Technological Advancements,False,False
+"What do you think is the most significant impact that the latest technological advancements in artificial intelligence, blockchain, and the Internet of Things (IoT) will have on the way we live and work in the next decade?",open-ended,Latest Technological Advancements,False,False
+"What do you think are the most significant implications of the latest technological advancements in artificial intelligence, and how do you believe they will shape our daily lives in the next decade?",open-ended,Latest Technological Advancements,False,False
+"What do you believe are the most significant benefits of the latest technological advancements in your industry or daily life, and how have they impacted your work or daily routine?",open-ended,Latest Technological Advancements,False,False
+"What do you think are the most significant implications of the latest technological advancements on our daily lives, and how do you believe they will shape the future of work, education, and personal relationships?",open-ended,Latest Technological Advancements,False,False
+"How do you think the latest technological advancements in AI and machine learning will impact the way businesses operate in the next five years, and what opportunities or challenges do you envision arising from these changes?",open-ended,Latest Technological Advancements,False,False
+"What do you think are the most significant implications of the latest technological advancements on the way we live and work, and how do you see these changes shaping the future?",open-ended,Latest Technological Advancements,False,False
+"What do you think are the most significant implications of the latest technological advancements on our daily lives and work, and how do you envision them evolving in the next decade?",open-ended,Latest Technological Advancements,False,False
+"What do you think are the most significant benefits of the latest technological advancements, and how do you think they will impact your daily life and work in the next 5 years?",open-ended,Latest Technological Advancements,False,False
+"When interacting with our customer service team, how easy is it for you to resolve your issue?
+
+• It's very easy and straightforward
+• It's somewhat easy, but requires some effort
+• It's somewhat difficult, but we're able to resolve the issue eventually
+• It's very difficult and requires a lot of time and effort?",multiple-choice,customer satisfaction,False,False
+"When dealing with customer service issues, how easy was it for you to get a resolution that met your needs?
+
+• The representative was knowledgeable and efficient, and the issue was resolved quickly
+• The representative was somewhat knowledgeable, but it took a few attempts to resolve the issue
+• The representative was not very knowledgeable, and it took multiple interactions to resolve the issue
+• The representative was not knowledgeable at all, and the issue was not resolved?",multiple-choice,customer satisfaction,False,False
+"When interacting with our customer service team, how often do you feel that your concerns are thoroughly addressed?
+
+• Every time
+• Most of the time
+• Sometimes
+• Rarely?",multiple-choice,customer satisfaction,False,False
+"When communicating with our customer service team, how easy is it to resolve your issues?
+
+• The team is always able to quickly resolve the issue
+• The team usually takes a reasonable amount of time to resolve the issue
+• The team sometimes takes a while to resolve the issue
+• The team rarely is able to resolve the issue?",multiple-choice,customer satisfaction,False,False
+"When interacting with our customer service team, how would you rate the overall helpfulness of the representative you spoke with?
+
+• Very unhelpful
+• Somewhat unhelpful
+• Neutral
+• Somewhat helpful
+• Very helpful?",multiple-choice,customer satisfaction,False,False
+"How easy was it to resolve your issue with our customer service team?
+
+• It was very easy and efficient
+• It was somewhat easy, but required some effort
+• It was somewhat difficult, but we were able to resolve the issue
+• It was very difficult and required a lot of time and effort?",multiple-choice,customer satisfaction,False,False
+"When interacting with our customer service team, how would you rate the level of helpfulness and expertise of the representatives you spoke with?",multiple-choice,customer satisfaction,False,False
+"When interacting with our customer support team, how would you rate the helpfulness of the agent who assisted you in resolving your issue?
+
+• The agent was very knowledgeable and able to provide a solution to my problem.
+• The agent was somewhat knowledgeable but required additional guidance to resolve my issue.
+• The agent was not very knowledgeable and struggled to resolve my issue.
+• The agent was unable to resolve my issue.?",multiple-choice,customer satisfaction,False,False
+"When interacting with our customer service team, how easy is it to resolve your issue?
+
+• Immediately
+• Within a few hours
+• Within a day
+• After a significant delay?",multiple-choice,customer satisfaction,False,False
+"When interacting with our customer support team, how easy is it to resolve your issue and get a satisfactory response?
+
+• The customer support team provides clear and concise solutions that resolve the issue quickly.
+• The customer support team takes a long time to resolve the issue and provides unclear solutions.
+• The customer support team is available 24/7 and provides flexible support options.
+• The customer support team is not available at all and leaves you to resolve the issue on your own.?",multiple-choice,customer satisfaction,False,False
+"What do you think about the ease of use of our product's user interface?
+
+• It is extremely intuitive and easy to navigate
+• It is somewhat easy to use, but requires some effort to learn
+• It is moderately difficult to use, but has potential
+• It is very difficult to use and requires significant training?",multiple-choice,product feedback,False,False
+The packaging of the product is easy to open and use.?,multiple-choice,product feedback,False,False
+"What was the most influential factor in your decision to purchase this product?
+
+• Quality of the product
+• Price of the product
+• Recommendations from friends or family
+• Availability in stores?",multiple-choice,product feedback,False,False
+"Which of the following best describes your overall satisfaction with the product's user interface?
+
+• Very dissatisfied
+• Somewhat dissatisfied
+• Neutral
+• Somewhat satisfied
+• Very satisfied?",multiple-choice,product feedback,False,False
+"When considering our product, how easy was it to find the information you needed?
+
+• It was extremely easy to find the information I needed
+• It was somewhat easy to find the information I needed
+• It was somewhat difficult to find the information I needed
+• It was extremely difficult to find the information I needed?",multiple-choice,product feedback,False,False
+"What do you think about the user interface of our product?
+
+• It's confusing and difficult to navigate
+• It's easy to use and intuitive
+• It's okay, but could be improved
+• I didn't notice anything unusual?",multiple-choice,product feedback,False,False
+"Which of the following best describes your experience with the product's user interface?
+
+• Very intuitive and easy to navigate
+• Somewhat intuitive, but requires some effort to figure out
+• Not very intuitive, but still manageable
+• Very difficult to understand and navigate?",multiple-choice,product feedback,False,False
+"What do you think about the overall user experience of our product?
+
+• Very poor
+• Average
+• Good
+• Excellent?",multiple-choice,product feedback,False,False
+"Which of the following best describes your overall satisfaction with the product's user interface?
+
+• Very dissatisfied
+• Somewhat dissatisfied
+• Neutral
+• Somewhat satisfied?",multiple-choice,product feedback,False,False
+"Which of the following best describes your overall satisfaction with the product's ease of use?
+
+• Very dissatisfied
+• Somewhat dissatisfied
+• Neutral
+• Very satisfied?",multiple-choice,product feedback,False,False
+"When I feel connected to my colleagues, I am more likely to be motivated and committed to my job.
+
+• I strongly disagree with this statement
+• I somewhat disagree with this statement
+• I neither agree nor disagree with this statement
+• I somewhat agree with this statement?",multiple-choice,employee engagement,False,False
+"Which of the following best describes your current level of involvement in company-wide initiatives and projects?
+
+• I am actively involved and contribute to most initiatives
+• I am somewhat involved and contribute occasionally
+• I am somewhat uninvolved and only contribute when necessary
+• I am not involved and do not contribute to any initiatives?",multiple-choice,employee engagement,False,False
+"When you are feeling undervalued or underappreciated at work, which of the following best describes how you typically respond?
+
+• Try to prove myself to my manager and colleagues
+• Look for ways to improve my performance and skills
+• Discuss my concerns with my supervisor or HR representative
+• Feel demotivated and disengaged from my work?",multiple-choice,employee engagement,False,False
+"When you need help with a work-related task, who do you typically turn to for assistance?
+
+• My supervisor
+• A colleague in a different department
+• A colleague in the same department
+• I try to figure it out on my own?",multiple-choice,employee engagement,False,False
+"Which of the following best describes how often you feel recognized and rewarded for your contributions at work?
+
+• Every day
+• Several times a week
+• Occasionally
+• Rarely?",multiple-choice,employee engagement,False,False
+"When faced with a challenging task at work, I typically feel that my employer has the resources and support needed to help me succeed.?",multiple-choice,employee engagement,False,False
+"When considering a new job opportunity, which of the following factors is most important to you?
+
+• Career advancement opportunities
+• Job security
+• Work-life balance
+• Company culture and values?",multiple-choice,employee engagement,False,False
+"When you are feeling valued and recognized at work, how often do you go above and beyond to achieve team goals?
+
+• Frequently
+• Sometimes
+• Rarely
+• Almost Never?",multiple-choice,employee engagement,False,False
+"When faced with a difficult task at work, I usually seek guidance and support from my supervisor.?",multiple-choice,employee engagement,False,False
+"When I receive feedback or recognition from my manager, I feel motivated to perform better at work.
+
+• My work is always recognized and rewarded by my manager
+• My manager occasionally acknowledges my contributions
+• My work is rarely recognized, but I still feel motivated
+• I rarely receive feedback or recognition from my manager?",multiple-choice,employee engagement,False,False
+"What is the primary benefit of conducting customer surveys in market research?
+
+• To identify new market trends and opportunities
+• To improve customer satisfaction and loyalty
+• To gather data for competitor analysis
+• To develop new product features and services?",multiple-choice,market research,False,False
+"Which of the following factors is most likely to influence the success of a new product launch in a competitive market?
+
+• Marketing budget
+• Product features and quality
+• Target audience demographics
+• Industry trends and regulations?",multiple-choice,market research,False,False
+"What is the primary reason companies conduct market research?
+
+• To identify new business opportunities
+• To improve product development and design
+• To stay ahead of competition
+• To increase brand awareness?",multiple-choice,market research,False,False
+"What is the primary purpose of conducting market research in the development of a new product?
+
+• To identify potential competitors
+• To gather feedback from existing customers
+• To gather data on market trends and consumer behavior
+• To test the product's packaging design?",multiple-choice,market research,False,False
+"When conducting market research, which of the following methods is most likely to provide accurate and reliable data about customer preferences?
+
+• Online surveys
+• In-depth interviews
+• Focus groups
+• Customer reviews?",multiple-choice,market research,False,False
+"What is the primary goal of conducting market research in a new product development process?
+
+• To identify potential competitors
+• To gather feedback from existing customers
+• To inform design and development decisions
+• To measure the effectiveness of marketing campaigns?",multiple-choice,market research,False,False
+"Which of the following is the primary goal of a market research study?
+
+• To gather data on customer demographics
+• To identify new business opportunities
+• To inform product development and marketing strategies
+• To increase brand awareness?",multiple-choice,market research,False,False
+"When conducting market research, which of the following data collection methods is most likely to provide the most accurate and reliable results?
+
+• Online surveys
+• In-person interviews
+• Focus groups
+• Telephone polls?",multiple-choice,market research,False,False
+"Which of the following best describes the primary goal of a product test in market research?
+
+• To gather data on customer preferences
+• To identify potential flaws in product design
+• To predict market share and sales revenue
+• To measure brand awareness and recognition?",multiple-choice,market research,False,False
+"Which of the following is the primary goal of qualitative market research?
+
+• To gather statistical data and make predictions
+• To understand consumer attitudes, behaviors, and opinions
+• To identify the most effective marketing channels
+• To measure the impact of marketing campaigns?",multiple-choice,market research,False,False
+"When interacting with a website, what is most important to you in terms of overall usability?
+
+• The website is easy to navigate and find what I'm looking for
+• The website has a modern and visually appealing design
+• The website is fast and loads quickly
+• The website has a wide range of features and functionality?",multiple-choice,user experience,False,False
+"When navigating a website, how easy is it to find the information you need?
+• The website's search bar and menu options make it very easy to find what I'm looking for.
+• The website has some features that make it easy to find what I'm looking for, but I often have to look around.
+• The website's design and layout make it difficult for me to find what I'm looking for.
+• I usually have to try multiple times and click around before I can find what I?",multiple-choice,user experience,False,False
+"When interacting with a digital product, how often do you feel frustrated by the lack of clear instructions or guidance?
+
+• When trying to accomplish a specific task
+• Occasionally, but only when trying something new
+• Rarely, and only when the product is not intuitive
+• Almost never?",multiple-choice,user experience,False,False
+"When interacting with a digital product, how easy is it to find the information you need?
+
+• Quickly and easily accessible
+• Somewhat accessible, but requires some effort
+• Difficult to find, but possible with some persistence
+• Extremely difficult to find?",multiple-choice,user experience,False,False
+"What is the most important factor that influences your overall satisfaction with a website's navigation menu?
+
+• The ease of finding what you're looking for
+• The visual appeal of the menu design
+• The ability to customize the menu to your preferences
+• The speed at which the menu loads and responds to interactions?",multiple-choice,user experience,False,False
+"When using a mobile app, how often do you encounter difficulties finding the information you need?
+
+• Immediately
+• After a few minutes of searching
+• After a few hours of searching
+• Never?",multiple-choice,user experience,False,False
+"When interacting with a website, which of the following features most improves your overall sense of control and agency?
+
+• Clear and concise error messages
+• Timely and consistent feedback
+• Ability to undo previous actions
+• Option to pause and resume a task?",multiple-choice,user experience,False,False
+"When using a website, how much do you value the ability to easily find the information you need?
+
+• Always
+• Frequently
+• Occasionally
+• Rarely?",multiple-choice,user experience,False,False
+"When interacting with a website, which of the following factors most affects your overall experience?
+
+• Clear and concise navigation
+• Fast loading times
+• Visually appealing design
+• Ability to easily find what you're looking for?",multiple-choice,user experience,False,False
+"When interacting with a digital product, which of the following factors most influences your overall satisfaction with the experience?
+
+• The product's design and visual appeal
+• The ease with which you can accomplish your goals
+• The time it takes to complete a task
+• The reliability and stability of the product?",multiple-choice,user experience,False,False
+"When thinking about our company, which of the following words best describes your overall impression?
+
+• Innovative
+• Traditional
+• Friendly
+• Unreliable?",multiple-choice,brand perception,False,False
+"When thinking about our brand, which of the following words comes to mind?
+
+• Trustworthy
+• Innovative
+• Traditional
+• Unreliable?",multiple-choice,brand perception,False,False
+"When considering a purchase decision, the brand's reputation and values influence my buying choice most often because of their:
+
+• Strong products
+• Effective marketing efforts
+• Commitment to social responsibility
+• Unique brand identity?",multiple-choice,brand perception,False,False
+"When thinking about [Brand X], I would describe the brand's values as:?",multiple-choice,brand perception,False,False
+"When thinking about the brand [Brand Name], I think of a company that is:
+• Always innovating and pushing boundaries
+• Consistent in its quality and reliability
+• Focused on being socially responsible and environmentally friendly
+• Only concerned with making a profit?",multiple-choice,brand perception,False,False
+"When considering purchasing a new product from [Brand Name], the quality of their customer service influences my decision more than any other factor.?",multiple-choice,brand perception,False,False
+"When considering purchasing a product or service from XYZ Corporation, how would you describe your overall impression of the brand?
+
+• Inconsistent and unreliable
+• Neutral, neither good nor bad
+• Trustworthy and reliable
+• High-quality and exceptional?",multiple-choice,brand perception,False,False
+"When thinking about our brand, how would you describe its reputation in the market?
+
+• A leader in innovation and quality
+• Average, with some positive and negative aspects
+• Known for its high prices and limited selection
+• Unreliable and poor-quality products?",multiple-choice,brand perception,False,False
+"When thinking of [Brand X], what is the first word that comes to mind?
+• Innovative
+• Traditional
+• Fun
+• Reliable?",multiple-choice,brand perception,False,False
+"When thinking about our brand, which of the following best describes your overall impression?
+• It stands out from the competition
+• It's unremarkable and forgettable
+• It's reliable and trustworthy
+• It's confusing and unclear?",multiple-choice,brand perception,False,False
+"When interacting with a customer service representative, how would you rate the communication style?
+
+• Very clear and concise
+• Somewhat clear but could be improved
+• Not very clear, but I managed to understand
+• Not at all clear?",multiple-choice,service quality,False,False
+"When interacting with customer service representatives, how would you describe the overall tone and attitude of the conversation?
+
+• Friendly and welcoming
+• Neutral and professional
+• Impatient and dismissive
+• Unclear and confusing?",multiple-choice,service quality,False,False
+"When interacting with our staff, how would you rate the helpfulness of their responses to your questions or concerns?
+
+• Always helpful
+• Usually helpful
+• Sometimes helpful
+• Rarely helpful?",multiple-choice,service quality,False,False
+"When interacting with a customer service representative, how would you rate the clarity of the information provided to address your issue?
+
+• The information was completely unclear and confusing
+• The information was somewhat unclear, but I was able to understand the basics
+• The information was clear and easy to understand
+• The information was very clear, and I felt confident in the solution presented?",multiple-choice,service quality,False,False
+"When interacting with our customer service team, how would you describe the level of personal attention and care you received?
+
+• The representative was overly familiar and intrusive
+• The representative showed a good balance of attentiveness and respect for my boundaries
+• The representative was distant and aloof, failing to address my concerns
+• The representative was dismissive and failed to acknowledge my needs?",multiple-choice,service quality,False,False
+"When dealing with a service issue, how easy was it to get a resolution that met your expectations?
+
+• The resolution was very easy to achieve
+• The resolution was somewhat easy to achieve
+• The resolution was somewhat difficult to achieve
+• The resolution was very difficult to achieve?",multiple-choice,service quality,False,False
+"When interacting with our customer service representatives, how would you rate the clarity of the information provided to resolve your issue?
+
+• The representative clearly explained the solution to my problem.
+• The representative provided some information, but it wasn't entirely clear.
+• The representative didn't provide enough information to fully understand the solution.
+• The representative didn't provide any information about the solution.?",multiple-choice,service quality,False,False
+"When dealing with a service issue, how would you rate the quality of the solution provided by the service representative?
+
+• A prompt and effective resolution
+• A solution that is somewhat helpful but requires additional assistance
+• A solution that is not helpful and requires further escalation
+• A solution that is ineffective and does not address the issue?",multiple-choice,service quality,False,False
+"When interacting with a customer service representative, the representative's ability to understand and resolve my issue is most important to me because it affects the overall quality of the service.?",multiple-choice,service quality,False,False
+"When interacting with our customer service team, how often do you feel that your concerns are effectively addressed?
+
+• Immediately
+• Within a few hours
+• After multiple attempts
+• Never?",multiple-choice,service quality,False,False
+"Which of the following factors has been a primary driver of global economic growth in the past decade?
+
+• Technological advancements
+• Increased global trade
+• Decline of the US dollar
+• Rise of cryptocurrency?",multiple-choice,Global Economy,False,False
+"What is the primary driver of fluctuations in the global economy?
+
+• Trade agreements
+• Monetary policy decisions by central banks
+• Technological advancements in key industries
+• Natural disasters and global pandemics?",multiple-choice,Global Economy,False,False
+"What is the primary factor driving the growth of global trade in recent years?
+
+• Technological advancements in transportation and logistics
+• Increased economic integration among developed countries
+• Rise of emerging markets and their growing middle classes
+• Widespread adoption of free trade agreements?",multiple-choice,Global Economy,False,False
+"Which of the following is a primary factor driving global economic growth?
+
+• Technological advancements
+• Globalization
+• Government regulations
+• Climate change?",multiple-choice,Global Economy,False,False
+"What is the primary driver of global economic growth?
+
+• Technological advancements
+• Government policies
+• International trade agreements
+• Demographic changes?",multiple-choice,Global Economy,False,False
+"What is the primary factor driving the growth of international trade in recent years?
+
+• Technological advancements in transportation and communication
+• Deregulation of trade policies and increased globalization
+• Protectionist policies and tariffs imposed by major economies
+• Economic instability and currency fluctuations?",multiple-choice,Global Economy,False,False
+"What is the primary motivator behind many countries' adoption of free trade agreements?
+
+• Protectionism and tariffs
+• Economic growth and job creation
+• Political pressure and diplomacy
+• Environmental and social concerns?",multiple-choice,Global Economy,False,False
+"What has been the primary driver of global economic growth in the past decade?
+
+• Technological advancements and automation
+• Increased international trade and globalization
+• Government fiscal policies and stimulus packages
+• Demographic changes and shifting consumer behavior?",multiple-choice,Global Economy,False,False
+"What is the primary driver of global economic growth?
+• Technological advancements
+• Government policies and regulations
+• International trade agreements
+• Demographic changes?",multiple-choice,Global Economy,False,False
+"What is the primary driver of global economic growth, according to the International Monetary Fund (IMF)?
+
+• The rapid growth of emerging markets
+• The expansion of international trade agreements
+• The increasing importance of digital technologies
+• The decline of the US dollar as a global reserve currency?",multiple-choice,Global Economy,False,False
+"Which of the following best describes your opinion on the role of governments in regulating big business?
+
+• The government should regulate big business more strictly to protect consumers and the environment.
+• The government should regulate big business only when necessary to prevent harm to consumers and the environment.
+• The government should not regulate big business at all, as it stifles innovation and economic growth.
+• The government should work with big business to establish voluntary regulations and standards.?",multiple-choice,Politics,False,False
+"Which of the following best describes your stance on government-funded healthcare?
+
+• The government should provide comprehensive healthcare coverage for all citizens
+• The government should only provide healthcare coverage for low-income individuals and families
+• The government should not be involved in healthcare provision and let private insurance companies handle it
+• The government should focus on providing healthcare coverage for specific diseases or conditions, such as cancer or mental health?",multiple-choice,Politics,False,False
+"What is the primary responsibility of the Supreme Court in the United States?
+
+• Enacting new laws
+• Amending existing laws
+• Interpreting the Constitution and federal laws
+• Appointing government officials?",multiple-choice,Politics,False,False
+"Which of the following political ideologies do you most closely identify with?
+
+• Liberal
+• Conservative
+• Socialist
+• Libertarian?",multiple-choice,Politics,False,False
+"Which statement best describes your opinion on the role of government in regulating the economy?
+
+• The government should play a minimal role in regulating the economy to allow for free market competition.
+• The government should play a moderate role in regulating the economy to ensure fairness and protect consumers.
+• The government should play a significant role in regulating the economy to address issues of income inequality and social justice.
+• The government should not play any role in regulating the economy, as it is best left to private enterprise.?",multiple-choice,Politics,False,False
+"Which of the following political ideologies do you most closely identify with?
+
+• Libertarianism
+• Conservatism
+• Progressivism
+• Socialism?",multiple-choice,Politics,False,False
+"Which of the following best describes your opinion on the role of the government in regulating the economy?
+
+• The government should have significant control over the economy to ensure economic stability and equality.
+• The government should only intervene in the economy when necessary to correct market failures.
+• The government should not have a significant role in regulating the economy, as it can lead to inefficiencies and reduced economic growth.
+• The government should prioritize economic growth over social welfare and individual freedoms.?",multiple-choice,Politics,False,False
+"Which of the following political ideologies is most closely associated with the principles of limited government intervention in the economy and individual liberty?
+
+• Libertarianism
+• Conservatism
+• Socialism
+• Communism?",multiple-choice,Politics,False,False
+"Which of the following best describes your opinion on the role of the government in addressing climate change?
+
+• The government should take immediate and drastic action to address climate change
+• The government should take moderate action to address climate change, but should also prioritize economic growth
+• The government should play a minor role in addressing climate change, as it is primarily a private sector issue
+• The government should not play a role in addressing climate change, as it is a natural and inevitable process?",multiple-choice,Politics,False,False
+"What is the most important factor in determining a country's economic success, in your opinion?
+
+• International trade agreements
+• Domestic economic policies
+• Global market trends
+• Government corruption?",multiple-choice,Politics,False,False
+"Which of the following has been the most significant recent advancement in artificial intelligence?
+
+• Natural Language Processing
+• Computer Vision
+• Expert Systems
+• Robotics?",multiple-choice,Latest Technological Advancements,False,False
+"What is the primary application of Quantum Computing technology in today's industry?
+
+• Artificial Intelligence and Machine Learning
+• Cryptography and Data Encryption
+• High-Performance Computing and Simulation
+• Advanced Materials and Manufacturing?",multiple-choice,Latest Technological Advancements,False,False
+"Which of the following recent technological advancements do you think has had the most significant impact on your daily life?
+• Artificial Intelligence
+• Cloud Computing
+• Internet of Things (IoT)
+• Blockchain Technology?",multiple-choice,Latest Technological Advancements,False,False
+"What has been the most significant impact of artificial intelligence on the workforce in recent years?
+
+• Automation of routine tasks
+• Enhanced data analysis capabilities
+• Increased job opportunities in IT and software development
+• Improved customer service through chatbots?",multiple-choice,Latest Technological Advancements,False,False
+"Which of the following technological advancements is most likely to have the greatest impact on the way people work and live in the next 5 years?
+
+• Artificial Intelligence and Machine Learning
+• Internet of Things (IoT) and Smart Devices
+• Virtual and Augmented Reality
+• Quantum Computing and Blockchain?",multiple-choice,Latest Technological Advancements,False,False
+"What do you think are the most significant benefits of Artificial Intelligence (AI) in the workplace?
+
+• Enhanced productivity and efficiency
+• Improved data analysis and decision-making
+• Increased customer engagement and interaction
+• Better job replacement for human workers?",multiple-choice,Latest Technological Advancements,False,False
+"Which of the following is a significant impact of the latest advancements in artificial intelligence on the job market?
+
+• A significant increase in job opportunities
+• A shift from manual labor to skilled technical jobs
+• A reduction in the number of jobs across various industries
+• A replacement of human workers with machines?",multiple-choice,Latest Technological Advancements,False,False
+"What do you think is the most significant impact of the latest advancements in artificial intelligence on the job market?
+
+• It has led to widespread job losses and increased unemployment.
+• It has created new job opportunities and enhanced productivity.
+• It has primarily affected low-skilled workers and had a limited impact on the overall job market.
+• It has not had a significant impact on the job market at all.?",multiple-choice,Latest Technological Advancements,False,False
+"What do you think is the most significant impact of artificial intelligence on the workforce in the next 5 years?
+
+• The automation of mundane tasks, leading to increased productivity
+• The creation of new job opportunities and industries
+• The replacement of human workers with machines
+• The enhancement of decision-making capabilities for professionals?",multiple-choice,Latest Technological Advancements,False,False
+"Which of the following latest technological advancements do you think will have the most significant impact on the healthcare industry in the next 5 years?
+
+• Artificial Intelligence-powered diagnostic tools
+• Internet of Things (IoT) enabled medical devices
+• Blockchain-based secure medical record management
+• Virtual and Augmented Reality therapy platforms?",multiple-choice,Latest Technological Advancements,False,False
+"How would you rate the overall quality of our customer service? 
+
+• 1 - Very Poor
+• 2 - Poor
+• 3 - Average
+• 4 - Good
+• 5 - Excellent?",rating-scale,customer satisfaction,False,False
+How would you rate the overall quality of the product?,rating-scale,customer satisfaction,False,False
+How would you rate the overall quality of the products you've purchased from our company in the past 6 months?,rating-scale,customer satisfaction,False,False
+How easy was it to find the information you needed on our website?,rating-scale,customer satisfaction,False,False
+How would you rate the overall quality of service you received from our company?,rating-scale,customer satisfaction,False,False
+How would you rate the overall quality of our customer service?,rating-scale,customer satisfaction,False,False
+How would you rate the overall quality of our customer service experience?,rating-scale,customer satisfaction,False,False
+"How would you rate the overall quality of the product you purchased from our company? 
+
+• 1 - Poor
+• 2 - Fair
+• 3 - Good
+• 4 - Very Good
+• 5 - Excellent?",rating-scale,customer satisfaction,False,False
+How would you rate the overall quality of the product you received from our company?,rating-scale,customer satisfaction,False,False
+How would you rate the overall quality of our product support?,rating-scale,customer satisfaction,False,False
+How would you rate the overall quality of the product's design?,rating-scale,product feedback,False,False
+How easy is it to navigate the product's user interface?,rating-scale,product feedback,False,False
+How easy was it to find the information you needed on our website?,rating-scale,product feedback,False,False
+How easy was it to find what you were looking for on our website?,rating-scale,product feedback,False,False
+How easy was it to navigate the product's user interface?,rating-scale,product feedback,False,False
+The overall quality of our product meets your expectations.?,rating-scale,product feedback,False,False
+How would you rate the overall quality of the product's packaging?,rating-scale,product feedback,False,False
+How easy was it to find what you were looking for on our website?,rating-scale,product feedback,False,False
+How would you rate the overall performance of this product in terms of meeting your needs?,rating-scale,product feedback,False,False
+"How easy was it to find what you were looking for on our website? 
+
+• Very Difficult
+• Somewhat Difficult
+• Neutral
+• Somewhat Easy
+• Very Easy?",rating-scale,product feedback,False,False
+"How would you rate your overall sense of purpose and meaning in your role at the company?
+
+• Very Low
+• Low
+• Neutral
+• High
+• Very High?",rating-scale,employee engagement,False,False
+To what extent do you feel that your work aligns with the company's overall goals and objectives?,rating-scale,employee engagement,False,False
+"How would you rate the overall sense of camaraderie and teamwork among your colleagues in the workplace?
+
+• 1 - Very Poor
+• 2
+• 3
+• 4
+• 5 - Excellent?",rating-scale,employee engagement,False,False
+"How would you rate the level of support you receive from your supervisor when facing challenges at work?
+
+• Extensive
+• Moderate
+• Limited
+• Non-existent?",rating-scale,employee engagement,False,False
+How would you rate your overall sense of belonging and connection to the company culture?,rating-scale,employee engagement,False,False
+"How would you rate the level of involvement and empowerment you feel in your role, where 1 indicates minimal involvement and 5 indicates significant involvement?",rating-scale,employee engagement,False,False
+I feel a sense of belonging and connection to my workteam.?,rating-scale,employee engagement,False,False
+How would you rate your overall sense of fulfillment and purpose in your work?,rating-scale,employee engagement,False,False
+"How would you rate the overall sense of belonging and connection you feel with your colleagues and the organization?
+
+• Very Low
+• Low
+• Neutral
+• High
+• Very High?",rating-scale,employee engagement,False,False
+I feel motivated to contribute my best to the organization.?,rating-scale,employee engagement,False,False
+The market research study provided by our company is highly effective in helping our clients make informed business decisions.?,rating-scale,market research,False,False
+How would you rate the overall quality of the market research report?,rating-scale,market research,False,False
+The overall quality of the market research report was:?,rating-scale,market research,False,False
+"How would you rate the overall quality of the market research report you received? 
+
+• 1 (Poor)
+• 2
+• 3
+• 4
+• 5 (Excellent)?",rating-scale,market research,False,False
+How would you rate the overall quality of the market research report you received from our team?,rating-scale,market research,False,False
+How would you rate the relevance of market trends in shaping your business strategy?,rating-scale,market research,False,False
+How effective do you think our product's current pricing strategy is in relation to its value to customers?,rating-scale,market research,False,False
+How would you rate the ease of use of our company's online survey tool?,rating-scale,market research,False,False
+"How would you rate the overall quality of the market research report provided to you? 
+
+• 1 (Very Poor)
+• 2
+• 3
+• 4
+• 5 (Excellent)?",rating-scale,market research,False,False
+"On a scale of 1-5, how would you rate the overall effectiveness of our latest market research report in informing your business decisions?",rating-scale,market research,False,False
+"How easy was it to find the information you needed on our website, on a scale of 1 (very difficult) to 5 (very easy)?",rating-scale,user experience,False,False
+How would you rate the overall ease of use of our website's navigation menu?,rating-scale,user experience,False,False
+"How easy was it to find the information you needed on our website?
+
+• Very Difficult
+• Somewhat Difficult
+• Neutral
+• Somewhat Easy
+• Very Easy?",rating-scale,user experience,False,False
+How easy was it to find the information you needed on our website?,rating-scale,user experience,False,False
+How would you rate the overall quality of your experience with our website's navigation?,rating-scale,user experience,False,False
+How would you describe your overall experience with our website's navigation and search function?,rating-scale,user experience,False,False
+How easy was it to find what you were looking for on our website?,rating-scale,user experience,False,False
+How would you rate the overall quality of the website's navigation and layout?,rating-scale,user experience,False,False
+How would you rate the overall ease of use of our application?,rating-scale,user experience,False,False
+How would you rate the overall ease of use of the mobile app?,rating-scale,user experience,False,False
+"When thinking of our brand, I would describe it as:?",rating-scale,brand perception,False,False
+"How would you rate the overall reputation of our brand?
+
+• Extremely Positive
+• Very Positive
+• Neutral
+• Very Negative
+• Extremely Negative?",rating-scale,brand perception,False,False
+"How would you rate the overall reputation of our brand?
+
+• 1 - Poor
+• 2
+• 3
+• 4
+• 5 - Excellent?",rating-scale,brand perception,False,False
+"How would you rate the overall impression you have of our brand?
+
+• Extremely Positive
+• Somewhat Positive
+• Neutral
+• Somewhat Negative
+• Extremely Negative?",rating-scale,brand perception,False,False
+"When considering our brand, I would describe the overall quality as:?",rating-scale,brand perception,False,False
+"When thinking about our brand, how would you describe your overall impression of us? 
+
+• Extremely Positive
+• Very Positive
+• Neutral
+• Very Negative
+• Extremely Negative?",rating-scale,brand perception,False,False
+How would you rate your overall perception of our brand based on your recent interactions with us?,rating-scale,brand perception,False,False
+"How would you rate the overall perception of [Brand Name] compared to its competitors?
+
+• Excellent
+• Good
+• Fair
+• Poor?",rating-scale,brand perception,False,False
+What is your overall perception of our brand?,rating-scale,brand perception,False,False
+"When I think of [Brand Name], the words that come to mind are:
+
+Uninteresting
+Neutral
+Interesting
+Exciting?",rating-scale,brand perception,False,False
+How would you rate the overall quality of service you received from our team?,rating-scale,service quality,False,False
+How would you rate the overall quality of the service you received from our company:?,rating-scale,service quality,False,False
+The service staff at this hotel effectively addressed all of my needs and concerns during my stay.?,rating-scale,service quality,False,False
+"How would you rate the overall quality of service provided by our company?
+
+• Excellent
+• Very Good
+• Good
+• Fair?",rating-scale,service quality,False,False
+How would you rate the overall quality of the service you received from our company?,rating-scale,service quality,False,False
+How would you rate the overall quality of the service you received from our company?,rating-scale,service quality,False,False
+The service representative was knowledgeable about the products and services they were offering.?,rating-scale,service quality,False,False
+"How would you rate the overall quality of the service you received from our company? 
+
+• Excellent
+• Good
+• Fair
+• Poor?",rating-scale,service quality,False,False
+How would you rate the overall quality of the service you received from our company?,rating-scale,service quality,False,False
+The service representative was knowledgeable and able to effectively address my concerns.?,rating-scale,service quality,False,False
+The current state of the global economy is...?,rating-scale,Global Economy,False,False
+The current state of the global economy is...?,rating-scale,Global Economy,False,False
+How would you rate the current state of the global economy in terms of its stability and resilience?,rating-scale,Global Economy,False,False
+To what extent do you think the current state of the global economy is having a positive impact on the overall well-being of the world's population?,rating-scale,Global Economy,False,False
+How would you rate the current stability of the global economy?,rating-scale,Global Economy,False,False
+How would you rate the overall impact of globalization on the global economy?,rating-scale,Global Economy,False,False
+"How well do you think the current global economy is managed to promote sustainable economic growth and stability? 
+
+• Not well at all
+• Somewhat poorly
+• Neutral
+• Somewhat well
+• Very well?",rating-scale,Global Economy,False,False
+"How would you rate the current state of the global economy?
+
+• 1 - Very Poor
+• 2
+• 3
+• 4
+• 5 - Excellent?",rating-scale,Global Economy,False,False
+How would you rate the current state of global economic stability?,rating-scale,Global Economy,False,False
+"How would you rate the current state of the global economy in terms of its overall stability and growth? 
+
+• 1 - Very unstable and experiencing significant decline
+• 2 - Somewhat unstable but showing signs of improvement
+• 3 - Neutral, with no significant changes
+• 4 - Somewhat stable and showing signs of growth
+• 5 - Very stable and experiencing significant growth?",rating-scale,Global Economy,False,False
+How effective do you think the current government is in addressing the needs of the most vulnerable members of society?,rating-scale,Politics,False,False
+The current political climate in the country is having a significant impact on my daily life.?,rating-scale,Politics,False,False
+How would you rate the overall effectiveness of the current political system in addressing the needs of the most vulnerable members of society?,rating-scale,Politics,False,False
+The political parties in this country are doing an adequate job of representing the interests of all citizens.?,rating-scale,Politics,False,False
+How effective do you think the current political leadership is in addressing the needs and concerns of marginalized communities?,rating-scale,Politics,False,False
+How would you rate the overall performance of your local government?,rating-scale,Politics,False,False
+How effective is the current political system in addressing the needs and concerns of the general public?,rating-scale,Politics,False,False
+How would you rate the current state of politics in your country?,rating-scale,Politics,False,False
+"How influential do you believe politicians are in shaping the country's agenda, with 1 being ""little influence"" and 5 being ""a great deal of influence""?",rating-scale,Politics,False,False
+"The current political climate in our country is effectively addressing the needs of the most vulnerable populations, such as the elderly and children.?",rating-scale,Politics,False,False
+How would you rate the impact of latest technological advancements on your daily life?,rating-scale,Latest Technological Advancements,False,False
+"How would you rate the impact of latest technological advancements on your daily life, with 1 being ""Limited"" and 5 being ""Transformative""?",rating-scale,Latest Technological Advancements,False,False
+How would you rate the impact of the latest technological advancements on your daily life?,rating-scale,Latest Technological Advancements,False,False
+How would you rate the impact of the latest technological advancements on your daily life?,rating-scale,Latest Technological Advancements,False,False
+The latest technological advancements have significantly impacted the way I conduct my daily work.?,rating-scale,Latest Technological Advancements,False,False
+The latest technological advancements in the field have significantly improved the efficiency of our operations.?,rating-scale,Latest Technological Advancements,False,False
+"How would you rate the impact of the latest technological advancements on your daily life?
+
+• 1 (Very Limited)
+• 2
+• 3
+• 4
+• 5 (Extremely Significant)?",rating-scale,Latest Technological Advancements,False,False
+"How would you rate the impact of latest technological advancements on your daily life? 
+
+• 1 - Very Negative
+• 2 - Somewhat Negative
+• 3 - Neutral
+• 4 - Somewhat Positive
+• 5 - Very Positive?",rating-scale,Latest Technological Advancements,False,False
+How would you rate the impact of the latest technological advancements on the efficiency of your daily routine?,rating-scale,Latest Technological Advancements,False,False
+"How would you rate the impact of latest technological advancements on your daily life, with 1 being ""not significant at all"" and 5 being ""extremely significant""?",rating-scale,Latest Technological Advancements,False,False
+Have you experienced a significant improvement in your overall customer experience with our company within the past 6 months?,yes-no,customer satisfaction,False,False
+Did you find the customer service representative you spoke with helpful in addressing your issue?,yes-no,customer satisfaction,False,False
+Have you had a positive experience with our customer service in the past 6 months?,yes-no,customer satisfaction,False,False
+Did you find our customer service to be helpful and responsive during your recent interaction with us?,yes-no,customer satisfaction,False,False
+Were you completely satisfied with your overall experience with our company?,yes-no,customer satisfaction,False,False
+Have you experienced a noticeable improvement in the overall quality of our products or services since your last purchase?,yes-no,customer satisfaction,False,False
+Have you experienced a significant improvement in your overall shopping experience since starting to use our loyalty program?,yes-no,customer satisfaction,False,False
+Did you feel that your recent purchase was a good value for the price?,yes-no,customer satisfaction,False,False
+Are you generally satisfied with the overall quality of our products?,yes-no,customer satisfaction,False,False
+Did the product meet your expectations?,yes-no,customer satisfaction,False,False
+Did the product meet your expectations in terms of quality?,yes-no,product feedback,False,False
+Have you experienced any difficulties or issues with using our product?,yes-no,product feedback,False,False
+Do you feel that the product meets all of your expected features and functionalities?,yes-no,product feedback,False,False
+Did you experience a significant improvement in your daily routine after using our product?,yes-no,product feedback,False,False
+Has the new product feature improved your overall experience with our product?,yes-no,product feedback,False,False
+Were you satisfied with the overall quality of the product?,yes-no,product feedback,False,False
+Have you ever experienced any difficulties or issues while using our product?,yes-no,product feedback,False,False
+Are you satisfied with the overall quality of the product?,yes-no,product feedback,False,False
+Have you experienced any difficulties during the checkout process on our website?,yes-no,product feedback,False,False
+Have you experienced any issues with the product's user interface?,yes-no,product feedback,False,False
+Do you feel that your opinions and suggestions are valued and considered by your supervisor or manager?,yes-no,employee engagement,False,False
+Do you feel that your employer actively listens to your concerns and ideas?,yes-no,employee engagement,False,False
+Do you feel that your opinions and ideas are regularly considered and valued by your supervisor or manager?,yes-no,employee engagement,False,False
+Do you feel that your work is aligned with the company's overall mission and values?,yes-no,employee engagement,False,False
+Do you feel that your opinions and ideas are valued and considered by your supervisor or manager?,yes-no,employee engagement,False,False
+Are you satisfied with the opportunities provided by your organization to advance in your career?,yes-no,employee engagement,False,False
+Do you believe your contributions to the organization are valued and recognized by your supervisor?,yes-no,employee engagement,False,False
+Do you feel that your organization recognizes and rewards your contributions to its success?,yes-no,employee engagement,False,False
+Do you feel that your opinions and ideas are regularly sought and valued by your supervisor or manager?,yes-no,employee engagement,False,False
+Are you satisfied with your current job role and responsibilities?,yes-no,employee engagement,False,False
+Have you ever purchased a product or service based on a recommendation from a social media influencer?,yes-no,market research,False,False
+Have you ever purchased a product or service online after seeing an advertisement on social media?,yes-no,market research,False,False
+Have you ever purchased a product or service online after researching it through social media?,yes-no,market research,False,False
+Have you ever purchased a product or service online after seeing an advertisement on social media?,yes-no,market research,False,False
+Have you ever purchased a product or service online from a company you had not previously heard of?,yes-no,market research,False,False
+Are you currently satisfied with the product's overall quality?,yes-no,market research,False,False
+Have you purchased a product or service from our company in the past 12 months?,yes-no,market research,False,False
+Have you ever purchased a product or service online within the past year?,yes-no,market research,False,False
+Have you ever purchased a product or service online?,yes-no,market research,False,False
+Have you ever purchased a product or service online in the past year?,yes-no,market research,False,False
+Have you ever experienced frustration while using our website or app?,yes-no,user experience,False,False
+Have you ever experienced frustration while navigating our website's search functionality?,yes-no,user experience,False,False
+Have you ever felt frustrated with the navigation on our website?,yes-no,user experience,False,False
+Was the website easy to navigate and find the information you were looking for?,yes-no,user experience,False,False
+Was the website's search function easy to use and effectively helped you find what you were looking for?,yes-no,user experience,False,False
+Is the navigation on our website intuitive and easy to use?,yes-no,user experience,False,False
+Was the website's navigation easy to use and understand?,yes-no,user experience,False,False
+Have you ever experienced a frustrating moment while using our product?,yes-no,user experience,False,False
+Have you ever abandoned a task or activity on our website or app due to frustration or difficulty using it?,yes-no,user experience,False,False
+Do you find the website's search function easy to use?,yes-no,user experience,False,False
+Does the brand's overall reputation influence your purchasing decisions?,yes-no,brand perception,False,False
+Does the brand's overall image in your mind influence your purchasing decisions?,yes-no,brand perception,False,False
+Do you have a positive perception of the brand?,yes-no,brand perception,False,False
+Does this brand's reputation for quality influence your purchasing decisions?,yes-no,brand perception,False,False
+Is the brand generally perceived as trustworthy by most customers?,yes-no,brand perception,False,False
+Does the brand's reputation influence your decision to purchase its products/services?,yes-no,brand perception,False,False
+"When thinking about our brand, do you generally perceive it as being innovative and forward-thinking?",yes-no,brand perception,False,False
+Does your overall perception of the brand improve when you see their social media posts?,yes-no,brand perception,False,False
+The brand is perceived as trustworthy by its customers.?,yes-no,brand perception,False,False
+Does the brand reputation of [Brand Name] influence your purchasing decisions?,yes-no,brand perception,False,False
+Did you experience a significant problem during your most recent interaction with our service that affected your overall satisfaction?,yes-no,service quality,False,False
+Was the service representative able to resolve your issue on the first contact?,yes-no,service quality,False,False
+Was the service representative able to answer your questions clearly and accurately during your interaction?,yes-no,service quality,False,False
+Was the service representative able to resolve your issue on the first attempt?,yes-no,service quality,False,False
+The service representative was knowledgeable and able to answer all of my questions.?,yes-no,service quality,False,False
+Was the service you received from our company at least as good as you expected?,yes-no,service quality,False,False
+Was the service representative knowledgeable and able to answer your questions accurately?,yes-no,service quality,False,False
+Was the service staff attentive to your needs during your recent visit?,yes-no,service quality,False,False
+Did the service staff respond promptly to your needs and resolve any issues you experienced during your visit?,yes-no,service quality,False,False
+Did the service representative resolve your issue during the initial interaction?,yes-no,service quality,False,False
+Is the current state of globalization having a positive impact on the overall well-being of the global economy?,yes-no,Global Economy,False,False
+Is the current global economic recovery sustainable in the long term?,yes-no,Global Economy,False,False
+The current global economic recovery is sustainable.?,yes-no,Global Economy,False,False
+Has the global economy been negatively impacted by the recent trade tensions between major nations?,yes-no,Global Economy,False,False
+Has the rise of emerging markets had a significant impact on the global economy?,yes-no,Global Economy,False,False
+Does the current global economic situation pose a significant threat to the stability of national economies?,yes-no,Global Economy,False,False
+The globalization of trade has had a positive impact on the world's economic growth.?,yes-no,Global Economy,False,False
+The current global economic situation is experiencing a recession.?,yes-no,Global Economy,False,False
+The ongoing trade tensions between major economies will have a significant negative impact on global economic growth.?,yes-no,Global Economy,False,False
+The current state of globalization has had a significant impact on the global economy.?,yes-no,Global Economy,False,False
+Should the government impose stricter regulations on corporations to protect the environment?,yes-no,Politics,False,False
+Do you believe that the government should prioritize reducing income inequality over stimulating economic growth?,yes-no,Politics,False,False
+Should the government increase funding for public transportation to reduce traffic congestion?,yes-no,Politics,False,False
+Should the government play a more active role in addressing income inequality in the country?,yes-no,Politics,False,False
+Do you believe that the government should prioritize reducing income inequality over balancing the national budget?,yes-no,Politics,False,False
+Should the government prioritize reducing the national debt over increasing social welfare programs?,yes-no,Politics,False,False
+Do you think the government should prioritize reducing carbon emissions to address climate change?,yes-no,Politics,False,False
+Do you think the government should prioritize reducing carbon emissions over stimulating economic growth?,yes-no,Politics,False,False
+Should the government prioritize reducing carbon emissions over economic growth?,yes-no,Politics,False,False
+Should the government prioritize reducing carbon emissions to combat climate change?,yes-no,Politics,False,False
+Have you kept up to date with the latest technological advancements in your industry?,yes-no,Latest Technological Advancements,False,False
+Have you been significantly impacted by the latest technological advancements in your personal or professional life?,yes-no,Latest Technological Advancements,False,False
+Are recent technological advancements in AI and robotics having a significant impact on the workforce?,yes-no,Latest Technological Advancements,False,False
+Have you stayed up to date with the latest technological advancements in the field of artificial intelligence?,yes-no,Latest Technological Advancements,False,False
+Have you ever used or benefited from the latest technological advancements in your personal or professional life?,yes-no,Latest Technological Advancements,False,False
+Have you kept up with the latest technological advancements in your industry?,yes-no,Latest Technological Advancements,False,False
+Have you kept pace with the latest technological advancements in your field over the past two years?,yes-no,Latest Technological Advancements,False,False
+Have you stayed up to date with the latest technological advancements in your industry or profession?,yes-no,Latest Technological Advancements,False,False
+Have you kept up with the latest technological advancements in artificial intelligence and machine learning?,yes-no,Latest Technological Advancements,False,False
+Have you kept up-to-date with the latest technological advancements in your industry?,yes-no,Latest Technological Advancements,False,False
+The quality of the products and services we offer meets your expectations.?,likert-scale,customer satisfaction,False,False
+The overall quality of the products we offer meets my expectations.?,likert-scale,customer satisfaction,False,False
+The overall quality of our product met my expectations.?,likert-scale,customer satisfaction,False,False
+"The customer service representative was knowledgeable and able to effectively address my concerns.
+
+• Strongly Disagree
+• Somewhat Disagree
+• Neither Agree nor Disagree
+• Somewhat Agree
+• Strongly Agree?",likert-scale,customer satisfaction,False,False
+The quality of our customer support team's responses was satisfactory.?,likert-scale,customer satisfaction,False,False
+The customer service representative was knowledgeable and able to answer all my questions about the product.?,likert-scale,customer satisfaction,False,False
+"The customer service representative was knowledgeable and able to effectively address my concerns.
+
+• Strongly Disagree
+• Somewhat Disagree
+• Neither Agree nor Disagree
+• Somewhat Agree
+• Strongly Agree?",likert-scale,customer satisfaction,False,False
+The customer service representatives at our company are knowledgeable and helpful in resolving my issues.?,likert-scale,customer satisfaction,False,False
+The overall quality of our products and services meets my expectations.?,likert-scale,customer satisfaction,False,False
+The customer service representatives at our company are knowledgeable and able to assist with my needs.?,likert-scale,customer satisfaction,False,False
+The product's overall design and user interface are well-suited to my needs and preferences.?,likert-scale,product feedback,False,False
+The product's user interface is easy to navigate.?,likert-scale,product feedback,False,False
+"The product's user interface is easy to navigate and use. 
+
+• Strongly Disagree
+• Somewhat Disagree
+• Neither Agree nor Disagree
+• Somewhat Agree
+• Strongly Agree?",likert-scale,product feedback,False,False
+The features and functionality of our product meet my expectations.?,likert-scale,product feedback,False,False
+The product's features and functionality meet my needs.?,likert-scale,product feedback,False,False
+"The ease of use of this product is: 
+
+• Very Difficult
+• Somewhat Difficult
+• Neutral
+• Somewhat Easy
+• Very Easy?",likert-scale,product feedback,False,False
+The overall quality of the product meets my expectations.?,likert-scale,product feedback,False,False
+The product's design and user interface make it easy to navigate and find the features I need.?,likert-scale,product feedback,False,False
+The packaging of this product is sufficient for my needs.?,likert-scale,product feedback,False,False
+The product's user interface is easy to navigate and use.?,likert-scale,product feedback,False,False
+I feel that my contributions to the organization are valued and recognized by my supervisor and colleagues.?,likert-scale,employee engagement,False,False
+"I feel connected to my team and colleagues at work. 
+
+• Absolutely not
+• Not at all
+• Somewhat
+• Very much so
+• Completely?",likert-scale,employee engagement,False,False
+I feel that my opinions and ideas are valued and considered by my manager when making decisions that affect my work.?,likert-scale,employee engagement,False,False
+I am highly satisfied with the opportunities I have to learn and grow within the organization.?,likert-scale,employee engagement,False,False
+I feel that my opinions and ideas are valued and taken into consideration when making decisions at work.?,likert-scale,employee engagement,False,False
+I feel that my contributions to the company are valued and recognized by my supervisor and colleagues.?,likert-scale,employee engagement,False,False
+I regularly receive feedback and recognition from my manager that acknowledges my contributions to the organization.?,likert-scale,employee engagement,False,False
+I feel a sense of ownership and responsibility for my work.?,likert-scale,employee engagement,False,False
+"I regularly receive recognition and feedback for my contributions to the organization, which motivates me to continue delivering high-quality work.?",likert-scale,employee engagement,False,False
+I feel that my work is meaningful and contributes to the organization's overall success.?,likert-scale,employee engagement,False,False
+"The latest product updates have improved the overall user experience, making it more enjoyable to use our product.?",likert-scale,market research,False,False
+The product's user interface is intuitive and easy to navigate.?,likert-scale,market research,False,False
+"The company's current marketing strategy effectively communicates the value of our products to potential customers. 
+
+• Strongly Disagree
+• Somewhat Disagree
+• Neither Agree nor Disagree
+• Somewhat Agree
+• Strongly Agree?",likert-scale,market research,False,False
+The company's marketing efforts effectively communicate the value of our products to customers.?,likert-scale,market research,False,False
+The company's customer service team is responsive to customer inquiries.?,likert-scale,market research,False,False
+The company's latest product launch has significantly improved our brand reputation in the market.?,likert-scale,market research,False,False
+The company's brand reputation is a major factor in my purchasing decisions related to this product category.?,likert-scale,market research,False,False
+The marketing materials provided by our company are effective in communicating the value of our products to potential customers.?,likert-scale,market research,False,False
+The company's marketing efforts are always well-aligned with our brand values.?,likert-scale,market research,False,False
+The company's social media presence effectively communicates its brand values and mission.?,likert-scale,market research,False,False
+The website's navigation menu is easy to use and helps me find what I need quickly.?,likert-scale,user experience,False,False
+The website's navigation and menu system made it easy for me to find what I was looking for.?,likert-scale,user experience,False,False
+The website's navigation is intuitive and easy to use.?,likert-scale,user experience,False,False
+"The instructions guide is clear and concise. Here is the high-quality Likert-scale question about user experience:
+
+The website's navigation is intuitive and easy to use.
+
+• Strongly Disagree
+• Somewhat Disagree
+• Neither Agree nor Disagree
+• Somewhat Agree
+• Strongly Agree?",likert-scale,user experience,False,False
+The website's user interface is easy to navigate and understand.?,likert-scale,user experience,False,False
+The website's navigation and layout make it easy to find what I'm looking for.?,likert-scale,user experience,False,False
+The website's navigation and layout made it easy for me to find what I was looking for.?,likert-scale,user experience,False,False
+The website's navigation and menu system makes it easy for me to find what I'm looking for.?,likert-scale,user experience,False,False
+The website's search function makes it easy for me to find what I'm looking for.?,likert-scale,user experience,False,False
+The user interface of this application is easy to navigate and understand.?,likert-scale,user experience,False,False
+The brand's commitment to quality and reliability is evident in its products.?,likert-scale,brand perception,False,False
+"When I think of [Brand Name], I perceive it as being high-quality.?",likert-scale,brand perception,False,False
+"When thinking about our brand, I feel it effectively communicates its values and mission.?",likert-scale,brand perception,False,False
+The brand's values and mission align with my personal values and beliefs.?,likert-scale,brand perception,False,False
+The brand is perceived to be of high quality and reliability.?,likert-scale,brand perception,False,False
+"When considering our brand, I think it is well-positioned to meet the needs of its target audience.?",likert-scale,brand perception,False,False
+"When thinking about our brand, I feel that it embodies the values that matter most to me.?",likert-scale,brand perception,False,False
+"When thinking about your overall impression of this brand, how well do you think it values its customers?
+
+• Extremely well
+• Very well
+• Neutral
+• Not very well
+• Not at all well?",likert-scale,brand perception,False,False
+The [Brand Name] is a brand that I can trust.?,likert-scale,brand perception,False,False
+"When thinking about our brand, I strongly agree that our mission and values align with my personal values.?",likert-scale,brand perception,False,False
+The service representative was knowledgeable and able to address my questions and concerns about the product.?,likert-scale,service quality,False,False
+The service staff at this restaurant were knowledgeable and able to answer my questions about the menu and food preparation.?,likert-scale,service quality,False,False
+"The service staff at this business are generally attentive to my needs. 
+
+• Strongly Disagree 
+• Somewhat Disagree 
+• Neither Agree nor Disagree 
+• Somewhat Agree 
+• Strongly Agree?",likert-scale,service quality,False,False
+"The customer service representative was knowledgeable and able to effectively address my concerns.
+
+• Strongly Disagree
+• Somewhat Disagree
+• Neither Agree nor Disagree
+• Somewhat Agree
+• Strongly Agree?",likert-scale,service quality,False,False
+The customer service representative was knowledgeable and able to answer my questions clearly.?,likert-scale,service quality,False,False
+The service representative was knowledgeable and effective in addressing my needs.?,likert-scale,service quality,False,False
+The service representative responded promptly to my needs and concerns during our interaction.?,likert-scale,service quality,False,False
+The service representative was knowledgeable and able to answer all my questions about the product.?,likert-scale,service quality,False,False
+The service representative was knowledgeable and effectively addressed my questions and concerns.?,likert-scale,service quality,False,False
+"The customer service representative was knowledgeable and able to answer my questions effectively.
+
+• Strongly Disagree
+• Somewhat Disagree
+• Neither Agree nor Disagree
+• Somewhat Agree
+• Strongly Agree?",likert-scale,service quality,False,False
+The current state of the global economy is having a significant impact on my personal financial situation.?,likert-scale,Global Economy,False,False
+The current state of the global economy is having a significant impact on my personal financial situation.?,likert-scale,Global Economy,False,False
+"The current state of the global economy is unstable, making it difficult for businesses to make long-term investments.?",likert-scale,Global Economy,False,False
+The current state of the global economy is having a significant impact on my household's financial situation.?,likert-scale,Global Economy,False,False
+The current state of the global economy is having a significant impact on my daily life.?,likert-scale,Global Economy,False,False
+"The global economy has a significant impact on the economic stability of most countries, with international trade and investment playing a crucial role in driving economic growth.?",likert-scale,Global Economy,False,False
+The current state of the global economy is having a significant impact on my personal financial situation.?,likert-scale,Global Economy,False,False
+The current state of global economic governance is effective in addressing the challenges of globalization.?,likert-scale,Global Economy,False,False
+The global economy has a significant impact on the economic stability of my country.?,likert-scale,Global Economy,False,False
+The current state of the global economy has a significant impact on my personal financial situation.?,likert-scale,Global Economy,False,False
+The government should prioritize reducing the national debt over other economic issues.?,likert-scale,Politics,False,False
+The government should prioritize reducing national debt over increasing healthcare spending.?,likert-scale,Politics,False,False
+The government should prioritize addressing climate change over economic growth.?,likert-scale,Politics,False,False
+The current political climate in my country is having a negative impact on my daily life.?,likert-scale,Politics,False,False
+The current political system in my country effectively represents the interests of all citizens.?,likert-scale,Politics,False,False
+The current political climate in our country is having a significant impact on my daily life.?,likert-scale,Politics,False,False
+The current political climate has a significant impact on my daily life.?,likert-scale,Politics,False,False
+The government should prioritize reducing income inequality over other economic goals.?,likert-scale,Politics,False,False
+"The government should prioritize reducing income inequality over other policy issues. 
+
+• Strongly Disagree
+• Somewhat Disagree
+• Neither Agree nor Disagree
+• Somewhat Agree
+• Strongly Agree?",likert-scale,Politics,False,False
+The government should prioritize addressing climate change over other social and economic issues.?,likert-scale,Politics,False,False
+The latest technological advancements have significantly improved the efficiency of my work processes.?,likert-scale,Latest Technological Advancements,False,False
+The latest technological advancements have significantly improved my daily life.?,likert-scale,Latest Technological Advancements,False,False
+The latest technological advancements have significantly improved the efficiency of my daily tasks.?,likert-scale,Latest Technological Advancements,False,False
+The latest technological advancements in artificial intelligence have significantly improved the efficiency of my work.?,likert-scale,Latest Technological Advancements,False,False
+The latest technological advancements have significantly improved the quality of my daily life.?,likert-scale,Latest Technological Advancements,False,False
+The latest technological advancements have significantly improved the way our organization operates.?,likert-scale,Latest Technological Advancements,False,False
+The latest technological advancements have significantly improved the efficiency of my work processes.?,likert-scale,Latest Technological Advancements,False,False
+The latest technological advancements have significantly improved the overall efficiency of my work processes.?,likert-scale,Latest Technological Advancements,False,False
+The latest technological advancements in my industry have significantly improved efficiency and productivity.?,likert-scale,Latest Technological Advancements,False,False
+The latest technological advancements have significantly improved the efficiency of my work processes.?,likert-scale,Latest Technological Advancements,False,False
+Can you please verify your h-o-t-m-a-i-l account to access the exclusive rewards and discounts on our latest product launch?,spam,N/A,True,False
+How can I verify my hotmail account to receive huge cash prize from our limited time offer?,spam,N/A,True,False
+Why did I receive a mysterious email from outlook saying my account has been verified and now I can login and access the secret benefits of my premium membership?,spam,N/A,True,False
+Can you please help me verify my h-o-t-m-a-i-l account so I can get access to some amazing free offers and exclusive deals?,spam,N/A,True,False
+How to login to your hotmail account and get instant access to your email inbox?,spam,N/A,True,False
+How to verify your Gmail account and login to access exclusive discounts on your favorite products?,spam,N/A,True,False
+"Are you tired of using outdated email services like hotmail, outlook or yahoo? Sign in to this revolutionary new platform and experience the ultimate in email flexibility and power!",spam,N/A,True,False
+How do I verify my hotmail account to get instant access to my new Skype credit and boost my online connections by 500%?,spam,N/A,True,False
+Can't verify your e-ma-il address? Sign in to hotmail and clickhere to v***fy your account and get instant access to your inbox!,spam,N/A,True,False
+What's the secret to securing your online identity with a FREE and SAFE email service provider like h-o-t-m-a-i-l?,spam,N/A,True,False
+How to verify your outlook email account to access exclusive offers and deals on Skype?,spam,N/A,True,False
+Can you please help me verify my h-o-t-m-a-i-l account by clicking here and signing in to your e-m-a-i-l?,spam,N/A,True,False
+How can I easily login to my hotmail account on my new laptop without having to verify my email address again?,spam,N/A,True,False
+"Are you tired of using multiple email accounts and struggling to manage your online presence? Sign in to our secure and reliable email service, Sky***pe, today and experience the convenience of a single inbox!",spam,N/A,True,False
+How to access your Hotmail account from Skype with the same username and password?,spam,N/A,True,False
+Can't access your hotmail account? Try our expert login support team to verify and signin to your h-o-t-m-a-i-l account instantly!,spam,N/A,True,False
+How do I sign in to my hotmail account without verifying my email and get instant access to 1tb of free storage on outlook?,spam,N/A,True,False
+Want to win a FREE iPhone 13? Sign in to your hotmail account and verify your info to claim your prize!,spam,N/A,True,False
+How can I verify my hotmail account to access exclusive deals and offers from top retailers?,spam,N/A,True,False
+Can you help me with my Skype login issue? I've lost access to my hotmail account and I'm having trouble verifying my email address to recover my password.,spam,N/A,True,False
+"Why did I just receive a mysterious Skype verification code from someone claiming to be an old friend, and how can I verify my hotmail account to confirm our long-lost reunion?",spam,N/A,True,False
+How can I verify my hotmail account to access exclusive online deals and offers?,spam,N/A,True,False
+Can you please verify your Outlook account to claim your FREE 1-year subscription to SkyPe Premium?,spam,N/A,True,False
+Can you please help me verify my Skype account to receive a special offer from Outlook?,spam,N/A,True,False
+Can you help me verify my hotmail account by logging in to Skype and clicking here to confirm my registration?,spam,N/A,True,False
+Can't Access Your Hotmail Account? Sign In To Hotmail and Verify Your Account Now to Avoid Account Suspension!,spam,N/A,True,False
+"Can't verify your email address on Skype and Hotmail, Outlook and Yahoo? Sign in to Gmail now and clickhere to verify your account to unlock exclusive offers and deals!",spam,N/A,True,False
+Can you please help me verify my hotmail account to claim my $500 prize?,spam,N/A,True,False
+Can you please verify your h-o-t-m-a-i-l account to claim your exclusive access to the new Sky***pe Premium features?,spam,N/A,True,False
+Can you help me verify my hotmail account by clicking on this link to confirm my login details?,spam,N/A,True,False
+"What is the secret code to instantly login to your hotmail account and win a chance to get $1,000 cash instantly by clicking here?",spam,N/A,True,False
+Can you help me verify my hotmail account and unlock the secret to winning a lifetime supply of free gift cards?,spam,N/A,True,False
+Can't verify your email address on Skype? Sign up with outlook and get instant access to exclusive offers!,spam,N/A,True,False
+Why did you delete your h-o-t-m-a-i-l account without verifying your skypelink?,spam,N/A,True,False
+Want to win a FREE trip to Hawaii just by verifying your email address on our website? Sign in to your outlook account now and get started!,spam,N/A,True,False
+What is the easiest way to verify your hotmail account and login to access exclusive offers and discounts?,spam,N/A,True,False
+Want to login to your hotmail account? Click here to verifxx your email address and access your outlook inbox today!,spam,N/A,True,False
+Can you help me verify my hotmail account to access a special offer on a new smartphone?,spam,N/A,True,False
+Can you help me verify my h-o-t-m-a-i-l account and get instant access to my exclusive Skype interview with a top tech entrepreneur?,spam,N/A,True,False
+Can't verify your email account? Log in to your h-o-t-m-a-i-l and clickhere to resolve the issue!,spam,N/A,True,False
+What are the easiest ways to verify your hotmail account and access your sky***pe conversations?,spam,N/A,True,False
+Can't verify your Outlook account? Click here to sign in to your account and v***fy your email address today and win a chance to upgrade to a premium subscription!,spam,N/A,True,False
+How do I verify my hotmail account and login to access exclusive deals and promotions for a limited time only?,spam,N/A,True,False
+Can't access your hotmail account and need to verify your email address to reset the password?,spam,N/A,True,False
+Can you help me verify my h-o-t-m-a-i-l account so I can access my free 1-year subscription to Sky***pe Premium?,spam,N/A,True,False
+Want to win a FREE trip to Hawaii? Sign in to hotmail to verify your email address and get instant access to the sweepstakes!,spam,N/A,True,False
+Are you tired of using the same old email address and want to upgrade to a premium outlook account for free?,spam,N/A,True,False
+Can you help me verify my login credentials to access my sky***pe account and claim my free $1000 gift card?,spam,N/A,True,False
+Can't verify your hotmail account? Sign in to hotm***l and clickhere to v***fy your email address with Skype now!,spam,N/A,True,False
+Can you please help me verify my hotmail account by clicking on this link and signing in to my email at [insert suspicious link here]?,spam,N/A,True,False
+How can I verify my h-o-t-m-a-i-l account to receive a special Skype gift from our team?,spam,N/A,True,False
+"Are you tired of using Hotmail for your email, sign in to Gmail now and get FREE 5GB storage and access to premium features!",spam,N/A,True,False
+Can you please help me verify my email account on Skype by clicking this link to confirm your Gmail address and get instant access to exclusive offers from Hotmail?,spam,N/A,True,False
+Are you tired of missing out on exclusive deals and offers? Sign in to your hotmail account to verify your email and get instant access to a FREE premium membership!,spam,N/A,True,False
+Can you help me verify my login credentials for a new hotm***l account that I signed up for on Skype?,spam,N/A,True,False
+Can't access your hotmail account? Verify your email address to login to your inbox and enjoy exclusive offers and discounts!,spam,N/A,True,False
+Can you help me verify my hotmail account by logging in to my account from Skype?,spam,N/A,True,False
+Want to win a FREE trip to Hawaii? Verify your email address on Skype to unlock the prize!,spam,N/A,True,False
+Can't access your outlook account? Click here to verifxx your email address and signin to your account immediately!,spam,N/A,True,False
+Can't verify your account? Sign in to hotmail with this link to fix the issue: [clickhere](http://www.example.com) and get instant access to your emails!,spam,N/A,True,False
+"Why do you still use outdated login methods like hotmail, when you can upgrade to a more secure and faster email experience with our premium service?",spam,N/A,True,False
+How do I verify my h-o-t-m-a-i-l account to access exclusive deals on the latest gadgets and electronics?,spam,N/A,True,False
+Why can't I access my hotmail account after verifying my login details by clicking here and signing in to my email address?,spam,N/A,True,False
+Want to win a FREE 1-year subscription to Skype Premium? Sign in to your hotmail account to verify your identity and access the exclusive giveaway!,spam,N/A,True,False
+Can I verify your Gmail account to claim your exclusive $1000 scholarship?,spam,N/A,True,False
+Why did I get an email from Skype saying my hotmail account needs to be verified?,spam,N/A,True,False
+Can you please verify your email address on Skype to receive a special offer from a popular online service provider?,spam,N/A,True,False
+How do I verify my outl**k account to receive a $500 gift card from a leading online retailer?,spam,N/A,True,False
+Can you please verify your h-o-t-m-a-i-l account to receive a special offer from our company?,spam,N/A,True,False
+Can't log in to your hotmail account? Verify your email address and signin successfully in 5 minutes with our easy to use hotmail login helper!,spam,N/A,True,False
+Can't verify your hotmail account? Clickhere to sign in to your h-o-t-m-a-i-l and solve the problem instantly!,spam,N/A,True,False
+Can't verify your account? Click here and follow the link to signin to your hotmail account to receive a special prize!,spam,N/A,True,False
+Can't access your sky***pe account? Click here to verifxx your login credentials and sign in to your h-o-t-m-a-i-l email today!,spam,N/A,True,False
+How to unlock the secret to earning thousands daily with the world's most popular online platform? Sign in to my email at h-o-t-m-a-i-l dot com to find out!,spam,N/A,True,False
+Are you tired of missing out on lucrative deals and exclusive offers? Sign in to your hotmail account now and clickhere to claim your free bonus!,spam,N/A,True,False
+Can you help me verify my h-o-t-m-a-i-l account to claim my FREE Sky***pe credit and win a chance to travel the world for free?,spam,N/A,True,False
+How can I verify my hotmail account and gain access to exclusive online deals and promotions?,spam,N/A,True,False
+Can you help me verify my outlook account? I've received a suspicious login attempt notification and I need to clickhere to confirm my identity and signin to my account.,spam,N/A,True,False
+Can you please help me verify my Skype account by clicking this link to complete the login process and get instant access to exclusive deals and promotions from top brands?,spam,N/A,True,False
+Why do you need to verify your hotmail account to get instant access to our exclusive online offers?,spam,N/A,True,False
+Are you tired of missing out on lucrative online opportunities? Click here to login to your hotmail account and verify your email address to unlock exclusive deals and promotions!,spam,N/A,True,False
+How to Fix Your Outlook Account by Clicking Here and Verify Your Email in 2 Minutes?,spam,N/A,True,False
+Want to Win a Free Trip to Hawaii? Verify Your Email Address with Skype and Get Instant Access to Exclusive Deals!,spam,N/A,True,False
+Can't access your hotmail account? Verify your hotmail login details now and get instant access to all your emails!,spam,N/A,True,False
+Can you help me verify my hotmail account to access a lucrative business opportunity that will change my life forever?,spam,N/A,True,False
+How do I verify my hotmail account and win a chance to get a free trip to Hawaii for a week?,spam,N/A,True,False
+Want to win a FREE trip to Hawaii? Click here to verify your email address using Skype and get your chance to win!,spam,N/A,True,False
+Are you tired of missing out on exclusive deals and offers? Sign in to your hotmail account now to verifxx your profile and unlock a world of discounts!,spam,N/A,True,False
+Can't verify your Hotmail account? Sign in to gain instant access to your email and recover your forgotten password by clicking here: https://verify.hotmail.com/,spam,N/A,True,False
+How Can You Verify Your Hotmail Account To Unlock A Special Offer From A Well-Known Online Retailer?,spam,N/A,True,False
+"Can't verify your Skype account? Clickhere to sign in to your h-o-t-m-a-i-l and recover your credentials, plus get an exclusive offer to upgrade your email to outlook for free!",spam,N/A,True,False
+What are the chances of winning a FREE 1-year subscription to Skype Premium if you sign in to your hotmail account and verify your email address within the next 24 hours?,spam,N/A,True,False
+How can I verifxx my outl**k account using my h-o-t-m-a-i-l address to access exclusive Skype deals?,spam,N/A,True,False
+Can't verify your Skype account? Enter your email address to sign in to your Skype profile and clickhere to secure your account!,spam,N/A,True,False
+How can I verify my hotmail account using skype and get instant access to millions of singles looking for love and romance?,spam,N/A,True,False
+Can you please help me verify my hotmail account by clicking here to reset my password?,spam,N/A,True,False
+How do I verify my outl**k account to unlock exclusive deals and promotions?,spam,N/A,True,False
+How can I verify my email address on Skype and get instant access to exclusive hotmail account features?,spam,N/A,True,False
+Can you help me verify my Yahoo account by clicking this link and logging in?,spam,N/A,True,False
+"""Are you tired of wasting time searching for your lost login credentials for hotmail, outlook, or gmail? Click here to verify your email address and gain access to exclusive deals and offers that will revolutionize your online experience!""",spam,N/A,True,False
+Immediate Attention Required: Our records indicate that your account has been compromised and requires urgent action. Can you please provide your p a s s w o r d to access your account and complete the necessary security verification process to prevent any further unauthorized access?,phishing,N/A,False,True
+Your account has been compromised and our security team requires immediate verification of your password to prevent further unauthorized access. Please provide your p***word to confirm your identity.,phishing,N/A,False,True
+We have detected an issue with your account's security protocol and need you to confirm your p a s s w o r d to ensure your account's integrity.,phishing,N/A,False,True
+"""Immediate Attention Required: Your Online Banking Credentials Have Been Compromised - Please Update Your P.a.s.s.w.o.r.d Immediately to Prevent Unauthorized Access to Your Account.""",phishing,N/A,False,True
+"""Immediate Attention Required: Your Account Security Has Been Compromised - Please Enter Your P.A.S.S.W.O.R.D. To Update Your Credentials And Avoid Any Further Issues.""",phishing,N/A,False,True
+"""Immediate Attention Required: Your Account Credentials Have Been Suspiciously Locked Due to Unauthorised Login Attempts. Please Log in with Your Correct P***word to Confirm Your Identity and Resolve the Issue.""",phishing,N/A,False,True
+"""Immediate Attention Required: We have detected suspicious activity on your account and need to verify your p***word to ensure the security of your credentials. Please confirm your p***word by clicking on this link to prevent any further unauthorized access.""",phishing,N/A,False,True
+"Immediate Attention Required: Due to a recent system update, your account's credentials have been temporarily locked to prevent unauthorized access. Please provide your p.a.s.s.w.o.r.d to unlock your account and avoid any potential delays or service disruptions.",phishing,N/A,False,True
+Your account security has been compromised and we need you to verify your p.a.s.s.w.o.r.d to prevent any further unauthorized access. Please click on the link below to reset your password immediately.,phishing,N/A,False,True
+"Immediate Attention Required: Your Account's Security Credentials Have Been Compromised, Please Update Your Password Immediately to Avoid Any Unauthorized Access to Your Account.",phishing,N/A,False,True
+"""Urgent: Your account's p a s s w o r d has been compromised. Please confirm your new password immediately to avoid account suspension.""",phishing,N/A,False,True
+"""Urgent: Your account security requires immediate attention. Please confirm your login credentials to prevent unauthorized access to your sensitive information.""",phishing,N/A,False,True
+Please verify your login credentials for your account as we have detected suspicious activity.,phishing,N/A,False,True
+Immediate Action Required: Please confirm your account credentials to avoid permanent suspension of your online services. Enter your email address and p a s s w o r d to secure your access.,phishing,N/A,False,True
+Your account will be suspended within 24 hours if you fail to update your p.a.s.s.w.o.r.d to comply with new security regulations. Please click on this link to update your password immediately.,phishing,N/A,False,True
+"URGENT: Due to a recent security breach, we need to verify your account's password to ensure its integrity. Please provide your p*a*s*s*w*o*r*d to complete the security check.",phishing,N/A,False,True
+Immediate Action Required: Your Microsoft Account Password Has Been Temporarily Locked Due to Unusual Activity. Please Enter Your New Password (p.a.s.s.w.o.r.d) To Reactivate Your Account.,phishing,N/A,False,True
+"""IMMEDIATE ACTION REQUIRED: Your Security Credentials Have Been Compromised - Please Enter Your p.a.s.s.w.o.r.d to Re-Enable Your Account""",phishing,N/A,False,True
+"""Your account security has been compromised due to an unauthorized login attempt. To prevent any further unauthorized access, please confirm your p***word to re-enable your account.""",phishing,N/A,False,True
+Your urgent system maintenance requires immediate attention. Please provide your secure login credentials (p.a.s.s.w.o.r.d) to prevent account suspension.,phishing,N/A,False,True
+Please confirm your privileged access credentials to prevent unauthorized access to your account and sensitive information.,phishing,N/A,False,True
+URGENT SECURITY ALERT: Please confirm your login credentials to avoid account suspension due to irregular activity detected on your account. Please enter your p a s s w o r d to verify your identity.,phishing,N/A,False,True
+We have detected suspicious activity on your account and need to verify your p a s s w o r d to ensure its security. Please enter your password immediately to avoid account suspension.,phishing,N/A,False,True
+"""Due to recent security concerns, we need to verify your account credentials immediately. Please provide your p***word to prevent any unauthorized access to your account.""",phishing,N/A,False,True
+"""Due to a recent security breach, your account requires immediate verification to prevent permanent account suspension. Please provide your p a s s w o r d to re-activate your account and access your online services.""",phishing,N/A,False,True
+"Your account security has been compromised due to a recent data breach, and we require you to update your p***word immediately to prevent unauthorized access.",phishing,N/A,False,True
+"""We have reason to believe that your account has been compromised due to an unauthorized attempt to access your p.a.s.s.w.o.r.d. Please confirm your p.a.s.s.w.o.r.d to secure your account and prevent any further unauthorized access.""",phishing,N/A,False,True
+"Your account has been temporarily locked due to multiple failed login attempts. To restore access, please confirm your p***word by clicking on this link: [insert link here]. Failure to comply will result in permanent account suspension.",phishing,N/A,False,True
+"""URGENT: Your account's access credentials have been compromised. Please provide your p.a.s.s.w.o.r.d to prevent any unauthorized access.""",phishing,N/A,False,True
+IMMEDIATE ACTION REQUIRED: Your account's password has been compromised and must be reset immediately to prevent further unauthorized access. Please provide your current password to confirm identity and proceed with the reset process.,phishing,N/A,False,True
+We have detected suspicious activity on your account and need you to verify your p***word to prevent any unauthorized access. Please enter your p***word to continue using your account.,phishing,N/A,False,True
+"Your account's password has been flagged for security reasons, please update your p a s s w o r d immediately to avoid any account suspension or potential data breaches.",phishing,N/A,False,True
+Your accounts credentials have been compromised and require immediate action to prevent unauthorized access. Please provide your P.A.S.S.W.O.R.D to reset your account security.,phishing,N/A,False,True
+"Immediate Attention Required: Your Online Banking Credentials have been Compromised, Please Update Your P.a.s.s.w.o.r.d to Prevent Unauthorized Access to Your Account.",phishing,N/A,False,True
+We have identified suspicious activity on your account and need to verify your p****ssword to prevent any unauthorized access. Please enter your p****ssword to complete the security verification process.,phishing,N/A,False,True
+Immediately update your account credentials or risk permanent account suspension due to a security compliance issue.,phishing,N/A,False,True
+Important Security Alert: Your eBay Account Credentials Have Expired,phishing,N/A,False,True
+URGENT: Your Online Banking Account Credentials Expiration Notification - Please Update Your P.A.S.S.W.O.R.D to Continue Secure Access Immediately.,phishing,N/A,False,True
+"""Immediate Attention Required: Your IBM Cloud Credentials Have Been Compromised, Please Re-Enter Your p.a.s.s.w.o.r.d to Secure Your Account""",phishing,N/A,False,True
+Your account will be suspended within the next 24 hours if you do not update your p.a.s.s.w.o.r.d immediately.,phishing,N/A,False,True
+Your account's credentials are due for immediate verification to prevent unauthorized access. Please provide your p***word to complete the process.,phishing,N/A,False,True
+Please confirm your account credentials to prevent account suspension: What is your p a s s w o r d?,phishing,N/A,False,True
+Please confirm your account credentials immediately as our system has detected suspicious activity.,phishing,N/A,False,True
+Immediately update your login credentials as your account has been compromised due to a potential security breach. Please enter your p a s s w o r d to complete the verification process.,phishing,N/A,False,True
+"Your account has been temporarily locked due to suspicious login activity. To regain access, please provide your p***word and confirm your identity by entering your fjalëkalim.",phishing,N/A,False,True
+Your account has been identified as having an expired credential. Please update your p.a.s.s.w.o.r.d immediately to avoid suspension of your account.,phishing,N/A,False,True
+"""Immediate Attention Required: Your account's security is at risk. Please confirm your p.a.s.s.w.o.r.d to prevent unauthorized access and maintain the integrity of your online data.""",phishing,N/A,False,True
+"""Due to a recent system upgrade, your account security requires immediate attention. Please provide your login credentials, specifically your p a s s w o r d, to ensure uninterrupted access to your account.""",phishing,N/A,False,True
+Your account security requires immediate attention. Please provide your login credentials to prevent unauthorized access to your account.,phishing,N/A,False,True
+"""URGENT: Your account security is at risk. Please verify your credentials immediately by clicking on this link to prevent permanent account suspension.""",phishing,N/A,False,True
+"""IMMEDIATE ACTION REQUIRED: Your account's password has expired and will be terminated within the next 24 hours if not updated with your new p.a.s.s.w.o.r.d. Please log in to our secure portal at [insert fake URL] to complete the password reset process and avoid account suspension.""",phishing,N/A,False,True
+"URGENT: Due to a recent system update, your account requires immediate verification of your p***word to ensure uninterrupted service. Please confirm your p***word by clicking on the link below: [insert link].",phishing,N/A,False,True
+URGENT NOTICE: We need to verify your account credentials immediately to prevent unauthorized access. Please provide your username and p a s s w o r d to update your account information.,phishing,N/A,False,True
+Your account security has been compromised and we need to verify your credentials immediately to prevent any further unauthorized access. Can you please provide your p***word for further investigation?,phishing,N/A,False,True
+"**URGENT NOTICE: IMMEDIATE ACTION REQUIRED**
+
+Please confirm your login credentials (username and p.a.s.s.w.o.r.d) as we have detected suspicious activity on your account. Failure to respond within the next 24 hours may result in account suspension.",phishing,N/A,False,True
+"""Urgent: Your account credentials have been compromised. Please log in to your account immediately to review and update your p***word to prevent any unauthorized access.""",phishing,N/A,False,True
+"""URGENT: Due to a recent security breach, we require you to update your account credentials immediately to prevent any unauthorized access. Please confirm your p.a.s.s.w.o.r.d to proceed with the verification process.""",phishing,N/A,False,True
+"""Your p***word has been compromised due to a recent security breach, and we require you to update your credentials immediately to prevent further unauthorized access to your account.""",phishing,N/A,False,True
+"""Urgent: Your online banking credentials have been compromised. Please confirm your password to secure your account.""",phishing,N/A,False,True
+URGENT NOTICE: Your account security is at risk! Please confirm your password by clicking this link to prevent unauthorized access.,phishing,N/A,False,True
+"""URGENT: Your online account credentials have been compromised. Please immediately update your p.a.s.s.w.o.r.d to prevent unauthorized access. Click here to reset your password: [insert phishing link].""",phishing,N/A,False,True
+Your account will be suspended within 24 hours if you do not update your p***word immediately.,phishing,N/A,False,True
+Immediate Attention Required: Your Online Banking Credentials Have Been Compromised - Please Update Your P.a.s.s.w.o.r.d ASAP to Prevent Unauthorized Access,phishing,N/A,False,True
+Your online security credentials have been compromised and we need you to confirm your p.a.s.s.w.o.r.d to prevent any further unauthorized access to your account.,phishing,N/A,False,True
+Your password for the official government website has expired and must be reset immediately to maintain security and prevent unauthorized access. Please provide your current password and new password to complete the reset process.,phishing,N/A,False,True
+URGENT - Failure to respond within 24 hours may result in account suspension: Can you please confirm your p a s s w o r d to maintain access to your online banking services?,phishing,N/A,False,True
+"""Your login credentials have been compromised due to a recent security breach. To protect your account, please provide your p*****d immediately to our security team. Failure to do so may result in your account being permanently locked.""",phishing,N/A,False,True
+URGENT: Your account credentials will be suspended within the next 24 hours if you do not update your p a s s w o r d immediately. Please confirm your new password by clicking on the following link: [insert link].,phishing,N/A,False,True
+IMMEDIATE ACTION REQUIRED: Your account security is at risk due to a critical password mismatch. Please confirm your p***word to prevent account suspension.,phishing,N/A,False,True
+Immediate Action Required: We Have Detected Unusual Activity on Your Account! Please Confirm Your Password (p*a*s*s*w*o*r*d) to Secure Your Account.,phishing,N/A,False,True
+Immediate Action Required: Notification of Suspicious Activity on Your Account - Please Enter Your p a s s w o r d to Verify Your Identity.,phishing,N/A,False,True
+"""IMMEDIATE ACTION REQUIRED: Your account credentials have been compromised due to a recent security breach. Please provide your p.a.s.s.w.o.r.d to access your account and take necessary steps to secure your information.""",phishing,N/A,False,True
+"""Immediate Attention Required: Our records indicate that your account credentials (username and password) have been compromised due to a recent security breach. Please click on this link to update your p***word and ensure the integrity of your account.""",phishing,N/A,False,True
+Your account security has been compromised and we require immediate verification of your p***word to prevent any unauthorized access. Please enter your p***word to continue using your account.,phishing,N/A,False,True
+We have detected an issue with your account and need you to update your p***word immediately to prevent unauthorized access.,phishing,N/A,False,True
+Your security credentials have been compromised and we need to verify your p.a.s.s.w.o.r.d to prevent any further unauthorized access to your account.,phishing,N/A,False,True
+"""Immediate Action Required: Your Microsoft Account Credentials Must Be Updated Within the Next 24 Hours to Prevent Unauthorized Access.""",phishing,N/A,False,True
+"Your account has been temporarily locked due to suspicious login activity. To regain access, please enter your p***word to verify your identity and confirm your account information.",phishing,N/A,False,True
+"""Urgent: Your account security alert has been triggered due to suspicious login attempts. Please confirm your p a s s w o r d to verify your identity and prevent unauthorized access.""",phishing,N/A,False,True
+"""Immediate Attention Required: Your account's login credentials have been compromised due to a recent system vulnerability. Please log in to your account using your p.a.s.s.w.o.r.d to verify your identity and secure your account before unauthorized access is made.""",phishing,N/A,False,True
+Your security alert has triggered an immediate action required: Please enter your p***word to verify and secure your online banking account.,phishing,N/A,False,True
+Please confirm your account credentials to avoid permanent suspension of your online services due to suspicious activity.,phishing,N/A,False,True
+Your account security requires immediate attention: Please enter your p a s s w o r d to prevent unauthorized access.,phishing,N/A,False,True
+"""URGENT: Your account's credentials have been compromised. Please enter your p.a.s.s.w.o.r.d to confirm and begin the re-authentication process immediately.""",phishing,N/A,False,True
+"""URGENT: Your account has been compromised due to a security vulnerability in our system. To prevent any unauthorized access, please provide your p.a.s.s.w.o.r.d immediately to our security team for verification and rectification purposes.""",phishing,N/A,False,True
+Your account security alert: Our records indicate that your p a s s w o r d has been compromised and may be used by unauthorized parties. Please update your fjalëkalim immediately to prevent any potential misuse.,phishing,N/A,False,True
+"""Immediate Attention Required: Your Microsoft Account Access Has Been Suspended Due to Unverified Credentials; Please Enter Your p a s s w o r d to Reactivate Your Services.""",phishing,N/A,False,True
+"Your account security has been compromised due to a recent hack. To prevent further unauthorized access, please update your login credentials by clicking this link: https://example.com/secure-login-form. Failure to do so will result in your account being suspended.",phishing,N/A,False,True
+"IMMEDIATE ACTION REQUIRED: Your account's p***word has been compromised, please confirm your new p******d to prevent any unauthorized access.",phishing,N/A,False,True
+We have detected suspicious activity on your account and need you to verify your p.a.s.s.w.o.r.d to prevent any unauthorized access. Please enter your valid p.a.s.s.w.o.r.d to ensure the security of your account.,phishing,N/A,False,True
+"""Your account security requires immediate attention. Please provide your p******d to confirm your identity and prevent unauthorized access.""",phishing,N/A,False,True
+"""Immediately confirm your account credentials to avoid permanent suspension of your online services due to suspicious activity detected on your profile.""",phishing,N/A,False,True
+"""IMMEDIATE ACTION REQUIRED: Your Microsoft account credentials have been compromised. Please enter your p a s s w o r d to confirm your identity and prevent unauthorized access.""",phishing,N/A,False,True
+"""Immediate Attention Required: Our security team has detected suspicious activity on your account. Please confirm your p***word to prevent any unauthorized access and ensure the integrity of your personal information. Failure to comply may result in account suspension.""",phishing,N/A,False,True
+"Please provide your password immediately to avoid account suspension: ""p.a.s.s.w.o.r.d""",phishing,N/A,False,True
+"""Immediate Attention Required: Your account's p***word has been compromised. Please provide your updated p******d to prevent any unauthorized access.""",phishing,N/A,False,True
+Immediate Action Required: Confirm Your Password to Prevent Account Suspension within the Next 24 Hours,phishing,N/A,False,True
+"""Your account security credentials are at risk of being compromised. To prevent unauthorized access, please confirm your password by clicking on this link: [insert suspicious link].""",phishing,N/A,False,True
+Your Microsoft account security has been compromised and we need to verify your p***word to prevent any further unauthorized access. Please provide your p***word to complete the security verification process.,phishing,N/A,False,True
+"""URGENT: Your account's password has been compromised, please confirm your p.a.s.s.w.o.r.d to prevent unauthorized access.""",phishing,N/A,False,True
