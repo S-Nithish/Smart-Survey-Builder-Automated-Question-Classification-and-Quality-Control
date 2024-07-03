@@ -6,11 +6,13 @@ The Smart Survey Builder aims to create an intelligent system for generating and
 * Utilized the Groq API with the llama3-8b-8192 model to generate survey questions from diverse topics.
 * Created a comprehensive dataset including various question types: open-ended, multiple-choice, ratings, Likert-scale, and yes/no, and also incorporated spam and phishing examples based on common words and patterns identified from the Survey Sparrow website.
 * Structured the dataset with columns for Question, Type, Topic, Spam, and Phishing.
+
 **Feature Engineering**
 * Implemented tokenization using word_tokenize.
 * Applied part-of-speech tagging with pos_tag.
 * Extracted named entities using ne_chunk.
 * Vectorized text data using TfidfVectorizer for numerical representation.
+
 **Model Selection and Training**
 * Employed data augmentation technique-synonym replacement, to enhance model robustness.
 * Selected RoBERTa, an optimized BERT variant, for the question classification task.
